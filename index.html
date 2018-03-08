@@ -13,7 +13,7 @@
 
 .node--leaf {
   fill: white;
-  display: none;
+  fill-opacity: 0;
 }
 
 .label {
@@ -99,7 +99,6 @@ d3.json("flare.json", function(error, root) {
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
     
     transition.selectAll("circle")
-       .style("display", function(d) { return d.parent === focus || d === focus? "inline" : "none"; })
        .style("fill-opacity", function(d) { return d.parent === focus || d === focus? 1 : 0; })
           
   }
