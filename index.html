@@ -100,6 +100,7 @@ d3.json("flare.json", function(error, root) {
     
     transition.selectAll("circle")
        .style("display", function(d) { return d.parent === focus || d === focus? "inline" : "none"; })
+       .style("fill-opacity", function(d) { return d.parent === focus || d === focus? 1 : 0; })
           
   }
 
