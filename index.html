@@ -97,9 +97,7 @@ d3.json("flare.json", function(error, root) {
         .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
     
-    g.selectAll("node")
-      .filter(function(d) { return d.parent === focus})
-        .style('display', "inline")
+    node.style('display', "inline")
       
   }
 
