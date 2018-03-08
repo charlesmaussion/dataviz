@@ -97,11 +97,16 @@ d3.json("flare.json", function(error, root) {
         .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
     
-    node.filter(function(d) {return this.style.display === "inline" && this.class === 'node node--leaf'})
-      .style('display', 'none')
+    transition.selectAll("circle")
+      .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
+        .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
+        .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
+        .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; }); 
+    //node.filter(function(d) {return this.style.display === "inline" && this.class === 'node node--leaf'})
+    //  .style('display', 'none')
     
-    node.filter(function(d) { return d.parent === focus})
-      .style('display', "inline")
+    //node.filter(function(d) { return d.parent === focus})
+    //  .style('display', "inline")
     
 
       
