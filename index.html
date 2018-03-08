@@ -63,6 +63,7 @@ d3.json("flare.json", function(error, root) {
     .enter().append("circle")
       .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
       .style("fill", function(d) { return d.children ? color(d.depth) : null; })
+      .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
       .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
 
   var text = g.selectAll("text")
@@ -99,9 +100,7 @@ d3.json("flare.json", function(error, root) {
     
     node.filter(function(d) {return this.style.display === "inline"})
       .style('display', 'none')
-    
-    console.log(node.class) 
-    
+        
     node.filter(function(d) { return d.parent === focus})
       .style('display', "inline")
     
