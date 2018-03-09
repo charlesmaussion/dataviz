@@ -47,7 +47,7 @@ var pack = d3.pack()
     .size([diameter - margin, diameter - margin])
     .padding(2);
 
-d3.json("flare.json", function(error, root) {
+d3.json("sample.json", function(error, root) {
   if (error) throw error;
 
   root = d3.hierarchy(root)
@@ -98,12 +98,12 @@ d3.json("flare.json", function(error, root) {
         .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
         .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
-    
+
     transition.selectAll("circle")
        .style("fill-opacity", function(d) { return d.parent === focus || d === focus? 1 : 0; })
        .style("display", function(d) { return d.parent === focus || d === focus? "inline" : "none"; })
 
-          
+
   }
 
   function zoomTo(v) {
