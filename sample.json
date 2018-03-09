@@ -2,22 +2,22 @@
   "name": "Livres",
   "children": [
     {
-      "name": "Bande dessin\u00e9e jeunesse",
+      "name": "Bande dessinée jeunesse",
       "children": [
         {
-          "name": "Au coeur du maelstr\u00f6m",
+          "name": "Au coeur du maelström",
           "size": 804
         },
         {
-          "name": "Une jolie vache [Texte imprim\u00e9]",
+          "name": "Une jolie vache [Texte imprimé]",
           "size": 803
         },
         {
-          "name": "On revasse ? [Texte imprim\u00e9]",
+          "name": "On revasse ? [Texte imprimé]",
           "size": 797
         },
         {
-          "name": "A l'\u00e9cole des mal\u00e9fices [Texte imprim\u00e9]",
+          "name": "A l'école des maléfices [Texte imprimé]",
           "size": 774
         },
         {
@@ -25,131 +25,131 @@
           "size": 766
         },
         {
-          "name": "Bienvenue au club ! [Texte imprim\u00e9]",
+          "name": "Bienvenue au club ! [Texte imprimé]",
           "size": 1021
         },
         {
-          "name": "Les schtroumpfs joueurs [Texte imprim\u00e9]",
+          "name": "Les schtroumpfs joueurs [Texte imprimé]",
           "size": 761
         },
         {
-          "name": "Ballet enchant\u00e9 [Texte imprim\u00e9]",
+          "name": "Ballet enchanté [Texte imprimé]",
           "size": 748
         },
         {
-          "name": "Chat acad\u00e9mie [Texte imprim\u00e9]",
+          "name": "Chat académie [Texte imprimé]",
           "size": 742
         },
         {
-          "name": "280 de Q.I. ! [Texte imprim\u00e9]",
+          "name": "280 de Q.I. ! [Texte imprimé]",
           "size": 731
         },
         {
-          "name": "Le bouclier arverne [Texte imprim\u00e9]",
+          "name": "Le bouclier arverne [Texte imprimé]",
           "size": 560
         },
         {
-          "name": "Alerte \u00e0 la plantaline [Texte imprim\u00e9]",
+          "name": "Alerte à la plantaline [Texte imprimé]",
           "size": 712
         },
         {
-          "name": "Comme sur des roulettes [Texte imprim\u00e9]",
+          "name": "Comme sur des roulettes [Texte imprimé]",
           "size": 705
         },
         {
-          "name": "La Belle et La B\u00eate [Texte imprim\u00e9]",
+          "name": "La Belle et La Bête [Texte imprimé]",
           "size": 697
         },
         {
-          "name": "Parasite sur canap\u00e9 [Texte imprim\u00e9]",
+          "name": "Parasite sur canapé [Texte imprimé]",
           "size": 696
         },
         {
-          "name": "Cygne d'\u00e9tang [Texte imprim\u00e9]",
+          "name": "Cygne d'étang [Texte imprimé]",
           "size": 694
         },
         {
-          "name": "Le g\u00e9nie donne sa langue au chat [Texte imprim\u00e9]",
+          "name": "Le génie donne sa langue au chat [Texte imprimé]",
           "size": 690
         },
         {
-          "name": "Catastrophe naturelle [Texte imprim\u00e9]",
+          "name": "Catastrophe naturelle [Texte imprimé]",
           "size": 640
         },
         {
-          "name": "Ast\u00e9rix en Corse [Texte imprim\u00e9]",
+          "name": "Astérix en Corse [Texte imprimé]",
           "size": 631
         },
         {
-          "name": "Le l\u00e9zard de l'ombre",
+          "name": "Le lézard de l'ombre",
           "size": 626
         },
         {
-          "name": "Calamit\u00e9 \u00e0 plein temps [Texte imprim\u00e9]",
+          "name": "Calamité à plein temps [Texte imprimé]",
           "size": 615
         },
         {
-          "name": "Oh ! la mer ! [Texte imprim\u00e9]",
+          "name": "Oh ! la mer ! [Texte imprimé]",
           "size": 596
         },
         {
-          "name": "Rapt \u00e0 l'Op\u00e9ra [Texte imprim\u00e9]",
+          "name": "Rapt à l'Opéra [Texte imprimé]",
           "size": 589
         },
         {
-          "name": "Contes de la pleine lune [Texte imprim\u00e9]",
+          "name": "Contes de la pleine lune [Texte imprimé]",
           "size": 585
         },
         {
-          "name": "Anatole Latuile [Texte imprim\u00e9] : c'est parti !",
+          "name": "Anatole Latuile [Texte imprimé] : c'est parti !",
           "size": 584
         },
         {
-          "name": "Un train d'enfer [Texte imprim\u00e9]",
+          "name": "Un train d'enfer [Texte imprimé]",
           "size": 582
         },
         {
-          "name": "En remontant le Mississipi [Texte imprim\u00e9]",
+          "name": "En remontant le Mississipi [Texte imprimé]",
           "size": 577
         },
         {
-          "name": "En qu\u00eate d'amour",
+          "name": "En quête d'amour",
           "size": 573
         },
         {
-          "name": "G\u00e9nie du stop",
+          "name": "Génie du stop",
           "size": 614
         },
         {
-          "name": "Quel cirque ! [Texte imprim\u00e9]",
+          "name": "Quel cirque ! [Texte imprimé]",
           "size": 600
         },
         {
-          "name": "Il faut \u00e9liminer Toxine [Texte imprim\u00e9]",
+          "name": "Il faut éliminer Toxine [Texte imprimé]",
           "size": 596
         },
         {
-          "name": "Ast\u00e9rix et Cl\u00e9op\u00e2tre [Texte imprim\u00e9]",
+          "name": "Astérix et Cléopâtre [Texte imprimé]",
           "size": 595
         },
         {
-          "name": "Karat\u00e9 ! [Texte imprim\u00e9]",
+          "name": "Karaté ! [Texte imprimé]",
           "size": 594
         },
         {
-          "name": "Main du futur [Texte imprim\u00e9]",
+          "name": "Main du futur [Texte imprimé]",
           "size": 899
         },
         {
-          "name": "L'\u00e9trange rendez-vous [Texte imprim\u00e9]",
+          "name": "L'étrange rendez-vous [Texte imprimé]",
           "size": 574
         },
         {
-          "name": "Le retour du lapin magicien [Texte imprim\u00e9]",
+          "name": "Le retour du lapin magicien [Texte imprimé]",
           "size": 574
         },
         {
-          "name": "N'oublie pas ta capuche! [Texte imprim\u00e9]",
+          "name": "N'oublie pas ta capuche! [Texte imprimé]",
           "size": 563
         },
         {
@@ -157,143 +157,143 @@
           "size": 2277
         },
         {
-          "name": "Max et Lili f\u00eatent No\u00ebl en famille [Texte imprim\u00e9]",
+          "name": "Max et Lili fêtent Noël en famille [Texte imprimé]",
           "size": 1804
         },
         {
-          "name": "Idylles [Texte imprim\u00e9]",
+          "name": "Idylles [Texte imprimé]",
           "size": 1765
         },
         {
-          "name": "Dr\u00f4le de cirque ! [Texte imprim\u00e9]",
+          "name": "Drôle de cirque ! [Texte imprimé]",
           "size": 1752
         },
         {
-          "name": "Max ne respecte rien [Texte imprim\u00e9]",
+          "name": "Max ne respecte rien [Texte imprimé]",
           "size": 1728
         },
         {
-          "name": "Max se trouve nul [Texte imprim\u00e9]",
+          "name": "Max se trouve nul [Texte imprimé]",
           "size": 1682
         },
         {
-          "name": "Lili veut un petit chat [Texte imprim\u00e9]",
+          "name": "Lili veut un petit chat [Texte imprimé]",
           "size": 1669
         },
         {
-          "name": "Lili veut etre une star [Texte imprim\u00e9]",
+          "name": "Lili veut etre une star [Texte imprimé]",
           "size": 1668
         },
         {
-          "name": "Lili regarde trop la t\u00e9l\u00e9 [Texte imprim\u00e9]",
+          "name": "Lili regarde trop la télé [Texte imprimé]",
           "size": 1642
         },
         {
-          "name": "Max est rackett\u00e9 [Texte imprim\u00e9]",
+          "name": "Max est racketté [Texte imprimé]",
           "size": 1623
         },
         {
-          "name": "Marl\u00e8ne grignote tout le temps [Texte imprim\u00e9]",
+          "name": "Marlène grignote tout le temps [Texte imprimé]",
           "size": 1550
         },
         {
-          "name": "Max va \u00e0 l'hopital [Texte imprim\u00e9]",
+          "name": "Max va à l'hopital [Texte imprimé]",
           "size": 1528
         },
         {
-          "name": "Tremblez, carcasses ! [Texte imprim\u00e9]",
+          "name": "Tremblez, carcasses ! [Texte imprimé]",
           "size": 1513
         },
         {
-          "name": "Lili est f\u00e2ch\u00e9e avec sa copine [Texte imprim\u00e9]",
+          "name": "Lili est fâchée avec sa copine [Texte imprimé]",
           "size": 1463
         },
         {
-          "name": "Max est dans la lune [Texte imprim\u00e9]",
+          "name": "Max est dans la lune [Texte imprimé]",
           "size": 1462
         },
         {
-          "name": "Le r\u00e9veil du Kr\u00e9a-Kaos [Texte imprim\u00e9]",
+          "name": "Le réveil du Kréa-Kaos [Texte imprimé]",
           "size": 1429
         },
         {
-          "name": "Grand-p\u00e8re est mort [Texte imprim\u00e9]",
+          "name": "Grand-père est mort [Texte imprimé]",
           "size": 1426
         },
         {
-          "name": "Salut, les zinzins ! [Texte imprim\u00e9]",
+          "name": "Salut, les zinzins ! [Texte imprimé]",
           "size": 1420
         },
         {
-          "name": "Max et Lili se sont perdus [Texte imprim\u00e9]",
+          "name": "Max et Lili se sont perdus [Texte imprimé]",
           "size": 1419
         },
         {
-          "name": "Ca va chauffer ! [Texte imprim\u00e9]",
+          "name": "Ca va chauffer ! [Texte imprimé]",
           "size": 1400
         },
         {
-          "name": "Tom-Tom et l'impossible Nana [Texte imprim\u00e9]",
+          "name": "Tom-Tom et l'impossible Nana [Texte imprimé]",
           "size": 1358
         },
         {
-          "name": "Lili veut de l'argent de poche [Texte imprim\u00e9]",
+          "name": "Lili veut de l'argent de poche [Texte imprimé]",
           "size": 1354
         },
         {
-          "name": "Lili d\u00e9couvre sa Mamie [Texte imprim\u00e9]",
+          "name": "Lili découvre sa Mamie [Texte imprimé]",
           "size": 1351
         },
         {
-          "name": "Coeur du pass\u00e9 [Texte imprim\u00e9]",
+          "name": "Coeur du passé [Texte imprimé]",
           "size": 1335
         },
         {
-          "name": "Griffes et plumes [Texte imprim\u00e9]",
+          "name": "Griffes et plumes [Texte imprimé]",
           "size": 1331
         },
         {
-          "name": "Alex est handicap\u00e9 [Texte imprim\u00e9]",
+          "name": "Alex est handicapé [Texte imprimé]",
           "size": 1325
         },
         {
-          "name": "Max d\u00e9cide de faire des efforts",
+          "name": "Max décide de faire des efforts",
           "size": 1321
         },
         {
-          "name": "La pierre de Jov\u00e9nia [Texte imprim\u00e9]",
+          "name": "La pierre de Jovénia [Texte imprimé]",
           "size": 1280
         },
         {
-          "name": "La tribu des affreux [Texte imprim\u00e9]",
+          "name": "La tribu des affreux [Texte imprimé]",
           "size": 1253
         },
         {
-          "name": "Le schtroumpf reporter [Texte imprim\u00e9]",
+          "name": "Le schtroumpf reporter [Texte imprimé]",
           "size": 1237
         },
         {
-          "name": "L'\u00e9l\u00e8ve d\u00e9passe le m\u00e8tre",
+          "name": "L'élève dépasse le mètre",
           "size": 1234
         },
         {
-          "name": "Aube et cr\u00e9puscule [Texte imprim\u00e9]",
+          "name": "Aube et crépuscule [Texte imprimé]",
           "size": 1207
         },
         {
-          "name": "L'artiste peintre [Texte imprim\u00e9]",
+          "name": "L'artiste peintre [Texte imprimé]",
           "size": 699
         },
         {
-          "name": "Superstars [Texte imprim\u00e9]",
+          "name": "Superstars [Texte imprimé]",
           "size": 1254
         },
         {
-          "name": "Trafics en Afrique [Texte imprim\u00e9]",
+          "name": "Trafics en Afrique [Texte imprimé]",
           "size": 566
         },
         {
-          "name": "Classe tous risques [Texte imprim\u00e9]",
+          "name": "Classe tous risques [Texte imprimé]",
           "size": 806
         },
         {
@@ -301,7 +301,7 @@
           "size": 806
         },
         {
-          "name": "Le cimeti\u00e8re des autobus [Texte imprim\u00e9]",
+          "name": "Le cimetière des autobus [Texte imprimé]",
           "size": 803
         },
         {
@@ -313,27 +313,27 @@
           "size": 778
         },
         {
-          "name": "O\u00f9 est Garfield ? [Texte imprim\u00e9]",
+          "name": "Où est Garfield ? [Texte imprimé]",
           "size": 769
         },
         {
-          "name": "Alerte en classe verte [Texte imprim\u00e9]",
+          "name": "Alerte en classe verte [Texte imprimé]",
           "size": 751
         },
         {
-          "name": "Seuls. 2. Le ma\u00eetre des couteaux [Texte imprim\u00e9]",
+          "name": "Seuls. 2. Le maître des couteaux [Texte imprimé]",
           "size": 738
         },
         {
-          "name": "C'est la fete ! [Texte imprim\u00e9]",
+          "name": "C'est la fete ! [Texte imprimé]",
           "size": 736
         },
         {
-          "name": "Mal\u00e9diction !",
+          "name": "Malédiction !",
           "size": 721
         },
         {
-          "name": "Graine de cocker [Texte imprim\u00e9]",
+          "name": "Graine de cocker [Texte imprimé]",
           "size": 672
         },
         {
@@ -341,31 +341,31 @@
           "size": 670
         },
         {
-          "name": "Docteur g\u00e9nie et Mister \"a\u00efe\" [Texte imprim\u00e9]",
+          "name": "Docteur génie et Mister aïe [Texte imprimé]",
           "size": 659
         },
         {
-          "name": "Pizza tomik [Texte imprim\u00e9]",
+          "name": "Pizza tomik [Texte imprimé]",
           "size": 641
         },
         {
-          "name": "Le schtroumpf sauvage [Texte imprim\u00e9]",
+          "name": "Le schtroumpf sauvage [Texte imprimé]",
           "size": 627
         },
         {
-          "name": "Zacar et les zacariens [Texte imprim\u00e9]",
+          "name": "Zacar et les zacariens [Texte imprimé]",
           "size": 609
         },
         {
-          "name": "Ast\u00e9rix l\u00e9gionnaire [Texte imprim\u00e9]",
+          "name": "Astérix légionnaire [Texte imprimé]",
           "size": 606
         },
         {
-          "name": "En roue libre [Texte imprim\u00e9]",
+          "name": "En roue libre [Texte imprimé]",
           "size": 580
         },
         {
-          "name": "La fl\u00fbte \u00e0 six schtroumpfs [Texte imprim\u00e9]",
+          "name": "La flûte à six schtroumpfs [Texte imprimé]",
           "size": 578
         },
         {
@@ -373,19 +373,19 @@
           "size": 576
         },
         {
-          "name": "Chocolats et coups fourr\u00e9s [Texte imprim\u00e9]",
+          "name": "Chocolats et coups fourrés [Texte imprimé]",
           "size": 574
         },
         {
-          "name": "Bienvenue en enfer [Texte imprim\u00e9]",
+          "name": "Bienvenue en enfer [Texte imprimé]",
           "size": 573
         },
         {
-          "name": "Max et Lili veulent \u00e9duquer leurs parents",
+          "name": "Max et Lili veulent éduquer leurs parents",
           "size": 2194
         },
         {
-          "name": "La salsa des saucisses [Texte imprim\u00e9]",
+          "name": "La salsa des saucisses [Texte imprimé]",
           "size": 1991
         },
         {
@@ -393,75 +393,75 @@
           "size": 1960
         },
         {
-          "name": "Ca roule ! [Texte imprim\u00e9]",
+          "name": "Ca roule ! [Texte imprimé]",
           "size": 1867
         },
         {
-          "name": "Lili part en camp de vacances [Texte imprim\u00e9]",
+          "name": "Lili part en camp de vacances [Texte imprimé]",
           "size": 1674
         },
         {
-          "name": "La copine de Lili a une maladie grave [Texte imprim\u00e9]",
+          "name": "La copine de Lili a une maladie grave [Texte imprimé]",
           "size": 1652
         },
         {
-          "name": "Max va \u00e0 la peche avec son p\u00e8re [Texte imprim\u00e9]",
+          "name": "Max va à la peche avec son père [Texte imprimé]",
           "size": 1604
         },
         {
-          "name": "Lili va chez la psy [Texte imprim\u00e9]",
+          "name": "Lili va chez la psy [Texte imprimé]",
           "size": 1562
         },
         {
-          "name": "Max n'en fait qu'\u00e0 sa t\u00eate [Texte imprim\u00e9]",
+          "name": "Max n'en fait qu'à sa tête [Texte imprimé]",
           "size": 1561
         },
         {
-          "name": "Lili est amoureuse [Texte imprim\u00e9]",
+          "name": "Lili est amoureuse [Texte imprimé]",
           "size": 1521
         },
         {
-          "name": "Max et Lili sont malades [Texte imprim\u00e9]",
+          "name": "Max et Lili sont malades [Texte imprimé]",
           "size": 1515
         },
         {
-          "name": "Max et Lili ne font pas leurs devoirs [Texte imprim\u00e9]",
+          "name": "Max et Lili ne font pas leurs devoirs [Texte imprimé]",
           "size": 1477
         },
         {
-          "name": "Max ne veut pas se laver [Texte imprim\u00e9]",
+          "name": "Max ne veut pas se laver [Texte imprimé]",
           "size": 1455
         },
         {
-          "name": "Les parents de Max et Lili se disputent [Texte imprim\u00e9]",
+          "name": "Les parents de Max et Lili se disputent [Texte imprimé]",
           "size": 1438
         },
         {
-          "name": "Nina a \u00e9t\u00e9 adopt\u00e9e [Texte imprim\u00e9]",
+          "name": "Nina a été adoptée [Texte imprimé]",
           "size": 1433
         },
         {
-          "name": "Max se bagarre [Texte imprim\u00e9]",
+          "name": "Max se bagarre [Texte imprimé]",
           "size": 1401
         },
         {
-          "name": "Max et Lili veulent des c\u00e2lins [Texte imprim\u00e9]",
+          "name": "Max et Lili veulent des câlins [Texte imprimé]",
           "size": 1348
         },
         {
-          "name": "Max raconte des \"bobards\" [Texte imprim\u00e9]",
+          "name": "Max raconte des bobards [Texte imprimé]",
           "size": 1305
         },
         {
-          "name": "L\u00e2chez-moi le slip ! [Texte imprim\u00e9]",
+          "name": "Lâchez-moi le slip ! [Texte imprimé]",
           "size": 1231
         },
         {
-          "name": "Tom-Tom le roi de la tambouille [Texte imprim\u00e9]",
+          "name": "Tom-Tom le roi de la tambouille [Texte imprimé]",
           "size": 1197
         },
         {
-          "name": "Tueurs \u00e0 gags [Texte imprim\u00e9]",
+          "name": "Tueurs à gags [Texte imprimé]",
           "size": 1167
         },
         {
@@ -469,119 +469,119 @@
           "size": 1078
         },
         {
-          "name": "Les p'tits schtroumpfs [Texte imprim\u00e9]",
+          "name": "Les p'tits schtroumpfs [Texte imprimé]",
           "size": 1031
         },
         {
-          "name": "L'\u00e9cole des vannes [Texte imprim\u00e9]",
+          "name": "L'école des vannes [Texte imprimé]",
           "size": 1031
         },
         {
-          "name": "Le retour de la momie qui pue qui tue [Texte imprim\u00e9]",
+          "name": "Le retour de la momie qui pue qui tue [Texte imprimé]",
           "size": 982
         },
         {
-          "name": "B\u00eate de sc\u00e8ne",
+          "name": "Bête de scène",
           "size": 953
         },
         {
-          "name": "Le schtroumpfissime [Texte imprim\u00e9]",
+          "name": "Le schtroumpfissime [Texte imprimé]",
           "size": 948
         },
         {
-          "name": "Carnage total [Texte imprim\u00e9]",
+          "name": "Carnage total [Texte imprimé]",
           "size": 937
         },
         {
-          "name": "Sale temps pour les moches [Texte imprim\u00e9]",
+          "name": "Sale temps pour les moches [Texte imprimé]",
           "size": 913
         },
         {
-          "name": "Docteur schtroumpf [Texte imprim\u00e9]",
+          "name": "Docteur schtroumpf [Texte imprimé]",
           "size": 907
         },
         {
-          "name": "Qui a \u00e9teint la lumi\u00e8re ? [Texte imprim\u00e9]",
+          "name": "Qui a éteint la lumière ? [Texte imprimé]",
           "size": 877
         },
         {
-          "name": "J'ai fini ! [Texte imprim\u00e9]",
+          "name": "J'ai fini ! [Texte imprimé]",
           "size": 822
         },
         {
-          "name": "Salade de schtroumpfs [Texte imprim\u00e9]",
+          "name": "Salade de schtroumpfs [Texte imprimé]",
           "size": 815
         },
         {
-          "name": "Premi\u00e8res classes [Texte imprim\u00e9]",
+          "name": "Premières classes [Texte imprimé]",
           "size": 734
         },
         {
-          "name": "Un petit ane comme vous et moi [Texte imprim\u00e9]",
+          "name": "Un petit ane comme vous et moi [Texte imprimé]",
           "size": 734
         },
         {
-          "name": "Le cosmoschtroumpf [Texte imprim\u00e9]",
+          "name": "Le cosmoschtroumpf [Texte imprimé]",
           "size": 722
         },
         {
-          "name": "Fl\u00e9au sans fronti\u00e8re",
+          "name": "Fléau sans frontière",
           "size": 700
         },
         {
-          "name": "T'as qu'\u00e0 t'retenir ! ; pr\u00e9c\u00e9d\u00e9 de mon premier mot du monde [Texte imprim\u00e9]",
+          "name": "T'as qu'à t'retenir ! ; précédé de mon premier mot du monde [Texte imprimé]",
           "size": 583
         },
         {
-          "name": "Ariol [Texte imprim\u00e9] : copain comme cochon",
+          "name": "Ariol [Texte imprimé] : copain comme cochon",
           "size": 582
         },
         {
-          "name": "La cuisine du diable [Texte imprim\u00e9]",
+          "name": "La cuisine du diable [Texte imprimé]",
           "size": 576
         },
         {
-          "name": "La bande \u00e0 Bill [Texte imprim\u00e9]",
+          "name": "La bande à Bill [Texte imprimé]",
           "size": 572
         },
         {
-          "name": "Jeux idiots [Texte imprim\u00e9]",
+          "name": "Jeux idiots [Texte imprimé]",
           "size": 560
         },
         {
-          "name": "Full m\u00e9tal casquette [Texte imprim\u00e9]",
+          "name": "Full métal casquette [Texte imprimé]",
           "size": 805
         },
         {
-          "name": "Jeux de vilains [Texte imprim\u00e9]",
+          "name": "Jeux de vilains [Texte imprimé]",
           "size": 799
         },
         {
-          "name": "Classes de neige [Texte imprim\u00e9]",
+          "name": "Classes de neige [Texte imprimé]",
           "size": 785
         },
         {
-          "name": "Avis de temp\u00eate [Texte imprim\u00e9]",
+          "name": "Avis de tempête [Texte imprimé]",
           "size": 744
         },
         {
-          "name": "Un peu, beaucoup, \u00e0 la folie [Texte imprim\u00e9]",
+          "name": "Un peu, beaucoup, à la folie [Texte imprimé]",
           "size": 739
         },
         {
-          "name": "Fain\u00e9ant g\u00e9n\u00e9tique",
+          "name": "Fainéant génétique",
           "size": 724
         },
         {
-          "name": "P\u00e9p\u00e9 se mouille [Texte imprim\u00e9]",
+          "name": "Pépé se mouille [Texte imprimé]",
           "size": 715
         },
         {
-          "name": "Ast\u00e9rix, la rose et le glaive [Texte imprim\u00e9]",
+          "name": "Astérix, la rose et le glaive [Texte imprimé]",
           "size": 711
         },
         {
-          "name": "C'est du joli ! [Texte imprim\u00e9]",
+          "name": "C'est du joli ! [Texte imprimé]",
           "size": 711
         },
         {
@@ -589,7 +589,7 @@
           "size": 700
         },
         {
-          "name": "Les secrets de l'univers [Texte imprim\u00e9]",
+          "name": "Les secrets de l'univers [Texte imprimé]",
           "size": 692
         },
         {
@@ -597,27 +597,27 @@
           "size": 685
         },
         {
-          "name": "Crapule king size [Texte imprim\u00e9]",
+          "name": "Crapule king size [Texte imprimé]",
           "size": 683
         },
         {
-          "name": "Ast\u00e9rix chez les Helv\u00e8tes [Texte imprim\u00e9]",
+          "name": "Astérix chez les Helvètes [Texte imprimé]",
           "size": 680
         },
         {
-          "name": "Toujours plus fort ! [Texte imprim\u00e9]",
+          "name": "Toujours plus fort ! [Texte imprimé]",
           "size": 1490
         },
         {
-          "name": "Le remonte-kiki [Texte imprim\u00e9]",
+          "name": "Le remonte-kiki [Texte imprimé]",
           "size": 677
         },
         {
-          "name": "Mon oeil ! [Texte imprim\u00e9]",
+          "name": "Mon oeil ! [Texte imprimé]",
           "size": 676
         },
         {
-          "name": "La l\u00e9gende de l'ouest [Texte imprim\u00e9]",
+          "name": "La légende de l'ouest [Texte imprimé]",
           "size": 676
         },
         {
@@ -629,31 +629,31 @@
           "size": 672
         },
         {
-          "name": "Personne en vue [Texte imprim\u00e9]",
+          "name": "Personne en vue [Texte imprimé]",
           "size": 649
         },
         {
-          "name": "Superstitions [Texte imprim\u00e9]",
+          "name": "Superstitions [Texte imprimé]",
           "size": 641
         },
         {
-          "name": "Y a du g\u00e9nie dans l'air ! [Texte imprim\u00e9]",
+          "name": "Y a du génie dans l'air ! [Texte imprimé]",
           "size": 634
         },
         {
-          "name": "La mal\u00e9diction des trente deniers",
+          "name": "La malédiction des trente deniers",
           "size": 628
         },
         {
-          "name": "Y a-t-il un g\u00e9nie pour sauver la plan\u00e8te ? [Texte imprim\u00e9]",
+          "name": "Y a-t-il un génie pour sauver la planète ? [Texte imprimé]",
           "size": 625
         },
         {
-          "name": "C'est pas de ton \u00e2ge ! [Texte imprim\u00e9]",
+          "name": "C'est pas de ton âge ! [Texte imprimé]",
           "size": 624
         },
         {
-          "name": "Ma Dalton [Texte imprim\u00e9]",
+          "name": "Ma Dalton [Texte imprimé]",
           "size": 616
         },
         {
@@ -665,107 +665,107 @@
           "size": 607
         },
         {
-          "name": "Le ch\u00eane qui parlait [Texte imprim\u00e9]",
+          "name": "Le chêne qui parlait [Texte imprimé]",
           "size": 605
         },
         {
-          "name": "Hypnosis [Texte imprim\u00e9]",
+          "name": "Hypnosis [Texte imprimé]",
           "size": 605
         },
         {
-          "name": "Tao le petit samoura\u00ef [Texte imprim\u00e9] : pitres et dragons !",
+          "name": "Tao le petit samouraï [Texte imprimé] : pitres et dragons !",
           "size": 599
         },
         {
-          "name": "Philtres d'amour [Texte imprim\u00e9]",
+          "name": "Philtres d'amour [Texte imprimé]",
           "size": 593
         },
         {
-          "name": "Sur la piste des Dalton [Texte imprim\u00e9]",
+          "name": "Sur la piste des Dalton [Texte imprimé]",
           "size": 570
         },
         {
-          "name": "Max et Lili veulent \u00eatre gentils",
+          "name": "Max et Lili veulent être gentils",
           "size": 2110
         },
         {
-          "name": "Lili r\u00eave d'\u00eatre une femme",
+          "name": "Lili rêve d'être une femme",
           "size": 1959
         },
         {
-          "name": "Lili se fait pi\u00e9ger sur internet [Texte imprim\u00e9]",
+          "name": "Lili se fait piéger sur internet [Texte imprimé]",
           "size": 1958
         },
         {
-          "name": "Max trouve que c'est pas juste [Texte imprim\u00e9]",
+          "name": "Max trouve que c'est pas juste [Texte imprimé]",
           "size": 1916
         },
         {
-          "name": "Max aime les monstres [Texte imprim\u00e9]",
+          "name": "Max aime les monstres [Texte imprimé]",
           "size": 1790
         },
         {
-          "name": "A l'attaque ! [Texte imprim\u00e9]",
+          "name": "A l'attaque ! [Texte imprimé]",
           "size": 1777
         },
         {
-          "name": "Bande de sauvages ! [Texte imprim\u00e9]",
+          "name": "Bande de sauvages ! [Texte imprimé]",
           "size": 1716
         },
         {
-          "name": "Le chien de Max et Lili est mort [Texte imprim\u00e9]",
+          "name": "Le chien de Max et Lili est mort [Texte imprimé]",
           "size": 1700
         },
         {
-          "name": "Lili se fait toujours gronder [Texte imprim\u00e9]",
+          "name": "Lili se fait toujours gronder [Texte imprimé]",
           "size": 1560
         },
         {
-          "name": "Max et Lili veulent tout savoir sur les b\u00e9b\u00e9s [Texte imprim\u00e9]",
+          "name": "Max et Lili veulent tout savoir sur les bébés [Texte imprimé]",
           "size": 1528
         },
         {
-          "name": "Max est timide [Texte imprim\u00e9]",
+          "name": "Max est timide [Texte imprimé]",
           "size": 1523
         },
         {
-          "name": "Journal infime [Texte imprim\u00e9]",
+          "name": "Journal infime [Texte imprimé]",
           "size": 1522
         },
         {
-          "name": "Max n'aime pas lire [Texte imprim\u00e9]",
+          "name": "Max n'aime pas lire [Texte imprimé]",
           "size": 1502
         },
         {
-          "name": "Lili fait des cauchemars [Texte imprim\u00e9]",
+          "name": "Lili fait des cauchemars [Texte imprimé]",
           "size": 1485
         },
         {
-          "name": "Emilie n'aime pas quand sa m\u00e8re boit trop [Texte imprim\u00e9]",
+          "name": "Emilie n'aime pas quand sa mère boit trop [Texte imprimé]",
           "size": 1472
         },
         {
-          "name": "Le p\u00e8re de Max et Lili est au ch\u00f4mage [Texte imprim\u00e9]",
+          "name": "Le père de Max et Lili est au chômage [Texte imprimé]",
           "size": 1469
         },
         {
-          "name": "Les vacances infernales [Texte imprim\u00e9]",
+          "name": "Les vacances infernales [Texte imprimé]",
           "size": 1461
         },
         {
-          "name": "La maison de Max et Lili a \u00e9t\u00e9 cambriol\u00e9e [Texte imprim\u00e9]",
+          "name": "La maison de Max et Lili a été cambriolée [Texte imprimé]",
           "size": 1449
         },
         {
-          "name": "Max n'aime pas l'\u00e9cole [Texte imprim\u00e9]",
+          "name": "Max n'aime pas l'école [Texte imprimé]",
           "size": 1415
         },
         {
-          "name": "L'Alystory [Texte imprim\u00e9]",
+          "name": "L'Alystory [Texte imprimé]",
           "size": 1393
         },
         {
-          "name": "Emilie a d\u00e9m\u00e9nag\u00e9 [Texte imprim\u00e9]",
+          "name": "Emilie a déménagé [Texte imprimé]",
           "size": 1360
         },
         {
@@ -773,159 +773,159 @@
           "size": 1269
         },
         {
-          "name": "Max et Lili ont vol\u00e9 des bonbons [Texte imprim\u00e9]",
+          "name": "Max et Lili ont volé des bonbons [Texte imprimé]",
           "size": 1237
         },
         {
-          "name": "La menace Schtroumpf [Texte imprim\u00e9]",
+          "name": "La menace Schtroumpf [Texte imprimé]",
           "size": 1104
         },
         {
-          "name": "Un copieur sachant copier [Texte imprim\u00e9]",
+          "name": "Un copieur sachant copier [Texte imprimé]",
           "size": 1043
         },
         {
-          "name": "Ast\u00e9rix chez Rah\u00e0zade [Texte imprim\u00e9] : ou le compte des mille et une heures",
+          "name": "Astérix chez Rahàzade [Texte imprimé] : ou le compte des mille et une heures",
           "size": 1037
         },
         {
-          "name": "On se calme ! [Texte imprim\u00e9]",
+          "name": "On se calme ! [Texte imprimé]",
           "size": 1033
         },
         {
-          "name": "Waterminator [Texte imprim\u00e9]",
+          "name": "Waterminator [Texte imprimé]",
           "size": 1003
         },
         {
-          "name": "Apocalypse boy [Texte imprim\u00e9]",
+          "name": "Apocalypse boy [Texte imprimé]",
           "size": 992
         },
         {
-          "name": "Paddle... my name is Kid Paddle [Texte imprim\u00e9]",
+          "name": "Paddle... my name is Kid Paddle [Texte imprimé]",
           "size": 969
         },
         {
-          "name": "Rod\u00e9o Blork [Texte imprim\u00e9]",
+          "name": "Rodéo Blork [Texte imprimé]",
           "size": 955
         },
         {
-          "name": "La Schtroumpfette [Texte imprim\u00e9]",
+          "name": "La Schtroumpfette [Texte imprimé]",
           "size": 954
         },
         {
-          "name": "Elle est moche ! [Texte imprim\u00e9]",
+          "name": "Elle est moche ! [Texte imprimé]",
           "size": 944
         },
         {
-          "name": "Enfin seuls ! [Texte imprim\u00e9]",
+          "name": "Enfin seuls ! [Texte imprimé]",
           "size": 940
         },
         {
-          "name": "Les Schtroumpfs et le Cracoucass [Texte imprim\u00e9]",
+          "name": "Les Schtroumpfs et le Cracoucass [Texte imprimé]",
           "size": 906
         },
         {
-          "name": "Papa, je veux un cheval ! [Texte imprim\u00e9]",
+          "name": "Papa, je veux un cheval ! [Texte imprimé]",
           "size": 900
         },
         {
-          "name": "Histoires de schtroumpfs [Texte imprim\u00e9]",
+          "name": "Histoires de schtroumpfs [Texte imprimé]",
           "size": 899
         },
         {
-          "name": "Lili ne veut plus aller \u00e0 la piscine [Texte imprim\u00e9]",
+          "name": "Lili ne veut plus aller à la piscine [Texte imprimé]",
           "size": 883
         },
         {
-          "name": "Tom-Tom et ses id\u00e9es explosives [Texte imprim\u00e9]",
+          "name": "Tom-Tom et ses idées explosives [Texte imprimé]",
           "size": 865
         },
         {
-          "name": "Le clan du requin [Texte imprim\u00e9]",
+          "name": "Le clan du requin [Texte imprimé]",
           "size": 832
         },
         {
-          "name": "Le r\u00e9veil du g\u00e9ant [Texte imprim\u00e9]",
+          "name": "Le réveil du géant [Texte imprimé]",
           "size": 822
         },
         {
-          "name": "Garfield fait le poids [Texte imprim\u00e9]",
+          "name": "Garfield fait le poids [Texte imprimé]",
           "size": 818
         },
         {
-          "name": "Le devin [Texte imprim\u00e9]",
+          "name": "Le devin [Texte imprimé]",
           "size": 1191
         },
         {
-          "name": "Le ma\u00eetre blagueur [Texte imprim\u00e9]",
+          "name": "Le maître blagueur [Texte imprimé]",
           "size": 1150
         },
         {
-          "name": "Les Cartables d\u00e9collent [Texte imprim\u00e9]",
+          "name": "Les Cartables décollent [Texte imprimé]",
           "size": 1138
         },
         {
-          "name": "C'est magique ! [Texte imprim\u00e9]",
+          "name": "C'est magique ! [Texte imprimé]",
           "size": 867
         },
         {
-          "name": "L'oeuf et les schtroumpfs [Texte imprim\u00e9]",
+          "name": "L'oeuf et les schtroumpfs [Texte imprimé]",
           "size": 1077
         },
         {
-          "name": "La gal\u00e8re d'Ob\u00e9lix [Texte imprim\u00e9]",
+          "name": "La galère d'Obélix [Texte imprimé]",
           "size": 1031
         },
         {
-          "name": "Sous les cahiers, la plage [Texte imprim\u00e9]",
+          "name": "Sous les cahiers, la plage [Texte imprimé]",
           "size": 1020
         },
         {
-          "name": "Peut mieux faire ! [Texte imprim\u00e9]",
+          "name": "Peut mieux faire ! [Texte imprimé]",
           "size": 1016
         },
         {
-          "name": "Le fils d'Ast\u00e9rix [Texte imprim\u00e9]",
+          "name": "Le fils d'Astérix [Texte imprimé]",
           "size": 1014
         },
         {
-          "name": "A la folie ! [Texte imprim\u00e9]",
+          "name": "A la folie ! [Texte imprimé]",
           "size": 1009
         },
         {
-          "name": "Je veux l'\u00e9pouser !",
+          "name": "Je veux l'épouser !",
           "size": 992
         },
         {
-          "name": "Bonjour les cadeaux ! [Texte imprim\u00e9]",
+          "name": "Bonjour les cadeaux ! [Texte imprimé]",
           "size": 1053
         },
         {
-          "name": "Alien Chantilly [Texte imprim\u00e9]",
+          "name": "Alien Chantilly [Texte imprimé]",
           "size": 940
         },
         {
-          "name": "Punis pour le meilleur et pour le pire [Texte imprim\u00e9]",
+          "name": "Punis pour le meilleur et pour le pire [Texte imprimé]",
           "size": 919
         },
         {
-          "name": "Miss dix sur dix [Texte imprim\u00e9]",
+          "name": "Miss dix sur dix [Texte imprimé]",
           "size": 887
         },
         {
-          "name": "A table ! [Texte imprim\u00e9]",
+          "name": "A table ! [Texte imprimé]",
           "size": 862
         },
         {
-          "name": "La quatri\u00e8me dimension et demie",
+          "name": "La quatrième dimension et demie",
           "size": 860
         },
         {
-          "name": "On ne schtroumpfe pas le progr\u00e8s [Texte imprim\u00e9]",
+          "name": "On ne schtroumpfe pas le progrès [Texte imprimé]",
           "size": 859
         },
         {
-          "name": "Les deux terreurs [Texte imprim\u00e9]",
+          "name": "Les deux terreurs [Texte imprimé]",
           "size": 837
         },
         {
@@ -933,27 +933,27 @@
           "size": 830
         },
         {
-          "name": "Un parfum d'aventure [Texte imprim\u00e9]",
+          "name": "Un parfum d'aventure [Texte imprimé]",
           "size": 824
         },
         {
-          "name": "G\u00e2teau-surprise [Texte imprim\u00e9]",
+          "name": "Gâteau-surprise [Texte imprimé]",
           "size": 823
         },
         {
-          "name": "O\u00f9 sont les freins ? [Texte imprim\u00e9]",
+          "name": "Où sont les freins ? [Texte imprimé]",
           "size": 807
         },
         {
-          "name": "D\u00e9g\u00e2ts \u00e0 gogo ! [Texte imprim\u00e9]",
+          "name": "Dégâts à gogo ! [Texte imprimé]",
           "size": 1022
         },
         {
-          "name": "Les schtroumpfs noirs [Texte imprim\u00e9]",
+          "name": "Les schtroumpfs noirs [Texte imprimé]",
           "size": 791
         },
         {
-          "name": "Chat d\u00e9chire !",
+          "name": "Chat déchire !",
           "size": 785
         },
         {
@@ -961,87 +961,87 @@
           "size": 747
         },
         {
-          "name": "Au pied, j'ai dit ! [Texte imprim\u00e9]",
+          "name": "Au pied, j'ai dit ! [Texte imprimé]",
           "size": 746
         },
         {
-          "name": "Tu ne s'ras jamais grand ! ; pr\u00e9c\u00e9d\u00e9 de \"La marche du monde\" [Texte imprim\u00e9]",
+          "name": "Tu ne s'ras jamais grand ! ; précédé de La marche du monde [Texte imprimé]",
           "size": 733
         },
         {
-          "name": "S.O.S Plan\u00e8te [Texte imprim\u00e9]",
+          "name": "S.O.S Planète [Texte imprimé]",
           "size": 699
         },
         {
-          "name": "Premier de la classe (en commen\u00e7ant par la fin) [Texte imprim\u00e9]",
+          "name": "Premier de la classe (en commençant par la fin) [Texte imprimé]",
           "size": 693
         },
         {
-          "name": "A l'eau police [Texte imprim\u00e9]",
+          "name": "A l'eau police [Texte imprimé]",
           "size": 685
         },
         {
-          "name": "L'apprentie sorci\u00e8re [Texte imprim\u00e9]",
+          "name": "L'apprentie sorcière [Texte imprimé]",
           "size": 681
         },
         {
-          "name": "Tr\u00e9sor de g\u00e9nie",
+          "name": "Trésor de génie",
           "size": 673
         },
         {
-          "name": "Subliiiimes ! [Texte imprim\u00e9]",
+          "name": "Subliiiimes ! [Texte imprimé]",
           "size": 2012
         },
         {
-          "name": "Lili a un chagrin d'amour [Texte imprim\u00e9]",
+          "name": "Lili a un chagrin d'amour [Texte imprimé]",
           "size": 1984
         },
         {
-          "name": "Au zoo, les zozos ! [Texte imprim\u00e9]",
+          "name": "Au zoo, les zozos ! [Texte imprimé]",
           "size": 1984
         },
         {
-          "name": "Trop, c'est trop ! [Texte imprim\u00e9]",
+          "name": "Trop, c'est trop ! [Texte imprimé]",
           "size": 1940
         },
         {
-          "name": "Ben \u00e7a, alors ! [Texte imprim\u00e9]",
+          "name": "Ben ça, alors ! [Texte imprimé]",
           "size": 1870
         },
         {
-          "name": "Max se fait insulter \u00e0 la r\u00e9cr\u00e9 [Texte imprim\u00e9]",
+          "name": "Max se fait insulter à la récré [Texte imprimé]",
           "size": 1782
         },
         {
-          "name": "Max veut etre d\u00e9l\u00e9gu\u00e9 de classe [Texte imprim\u00e9]",
+          "name": "Max veut etre délégué de classe [Texte imprimé]",
           "size": 1694
         },
         {
-          "name": "Lili veut faire une boum [Texte imprim\u00e9]",
+          "name": "Lili veut faire une boum [Texte imprimé]",
           "size": 1661
         },
         {
-          "name": "Lili se dispute avec son fr\u00e8re [Texte imprim\u00e9]",
+          "name": "Lili se dispute avec son frère [Texte imprimé]",
           "size": 1654
         },
         {
-          "name": "Lucien n'a pas de copains [Texte imprim\u00e9]",
+          "name": "Lucien n'a pas de copains [Texte imprimé]",
           "size": 1588
         },
         {
-          "name": "Simon a deux maisons [Texte imprim\u00e9]",
+          "name": "Simon a deux maisons [Texte imprimé]",
           "size": 1566
         },
         {
-          "name": "Max est fou de jeux vid\u00e9o [Texte imprim\u00e9]",
+          "name": "Max est fou de jeux vidéo [Texte imprimé]",
           "size": 1555
         },
         {
-          "name": "Lili n'aime que les frites [Texte imprim\u00e9]",
+          "name": "Lili n'aime que les frites [Texte imprimé]",
           "size": 1511
         },
         {
-          "name": "Les fous du mercredi [Texte imprim\u00e9]",
+          "name": "Les fous du mercredi [Texte imprimé]",
           "size": 1501
         },
         {
@@ -1049,67 +1049,67 @@
           "size": 1498
         },
         {
-          "name": "Lili ne veut pas se coucher [Texte imprim\u00e9]",
+          "name": "Lili ne veut pas se coucher [Texte imprimé]",
           "size": 1497
         },
         {
-          "name": "Ici Radio-casserole [Texte imprim\u00e9]",
+          "name": "Ici Radio-casserole [Texte imprimé]",
           "size": 1455
         },
         {
-          "name": "Max est jaloux [Texte imprim\u00e9]",
+          "name": "Max est jaloux [Texte imprimé]",
           "size": 1390
         },
         {
-          "name": "Lili est malpolie [Texte imprim\u00e9]",
+          "name": "Lili est malpolie [Texte imprimé]",
           "size": 1372
         },
         {
-          "name": "Tch\u00f4, monde cruel [Texte imprim\u00e9]",
+          "name": "Tchô, monde cruel [Texte imprimé]",
           "size": 1352
         },
         {
-          "name": "Max et Lili ont peur [Texte imprim\u00e9]",
+          "name": "Max et Lili ont peur [Texte imprimé]",
           "size": 1335
         },
         {
-          "name": "Lili veut prot\u00e9ger la nature [Texte imprim\u00e9]",
+          "name": "Lili veut protéger la nature [Texte imprimé]",
           "size": 1335
         },
         {
-          "name": "C'est p\u00f4 juste... [Texte imprim\u00e9]",
+          "name": "C'est pô juste... [Texte imprimé]",
           "size": 1334
         },
         {
-          "name": "Les schtroumpfs et le livre qui dit tout [Texte imprim\u00e9]",
+          "name": "Les schtroumpfs et le livre qui dit tout [Texte imprimé]",
           "size": 1329
         },
         {
-          "name": "Le gardien [Texte imprim\u00e9]",
+          "name": "Le gardien [Texte imprimé]",
           "size": 1328
         },
         {
-          "name": "Lili est d\u00e9sordre [Texte imprim\u00e9]",
+          "name": "Lili est désordre [Texte imprimé]",
           "size": 1278
         },
         {
-          "name": "Les parents de Zo\u00e9 divorcent [Texte imprim\u00e9]",
+          "name": "Les parents de Zoé divorcent [Texte imprimé]",
           "size": 1255
         },
         {
-          "name": "Le cousin de Max et Lili se drogue [Texte imprim\u00e9]",
+          "name": "Le cousin de Max et Lili se drogue [Texte imprimé]",
           "size": 1254
         },
         {
-          "name": "Les schtroumpfeurs de fl\u00fbte [Texte imprim\u00e9]",
+          "name": "Les schtroumpfeurs de flûte [Texte imprimé]",
           "size": 1211
         },
         {
-          "name": "Le ciel lui tombe sur la tete [Texte imprim\u00e9]",
+          "name": "Le ciel lui tombe sur la tete [Texte imprimé]",
           "size": 1134
         },
         {
-          "name": "Max n'aime pas perdre [Texte imprim\u00e9]",
+          "name": "Max n'aime pas perdre [Texte imprimé]",
           "size": 1128
         },
         {
@@ -1117,75 +1117,75 @@
           "size": 1100
         },
         {
-          "name": "Dark, j'adore ! [Texte imprim\u00e9]",
+          "name": "Dark, j'adore ! [Texte imprimé]",
           "size": 1099
         },
         {
-          "name": "La rentr\u00e9e des crasses [Texte imprim\u00e9]",
+          "name": "La rentrée des crasses [Texte imprimé]",
           "size": 1061
         },
         {
-          "name": "Vivement les vacances ! [Texte imprim\u00e9]",
+          "name": "Vivement les vacances ! [Texte imprimé]",
           "size": 1051
         },
         {
-          "name": "Max veut se faire des amis [Texte imprim\u00e9]",
+          "name": "Max veut se faire des amis [Texte imprimé]",
           "size": 1047
         },
         {
-          "name": "L'apprenti schtroumpf [Texte imprim\u00e9]",
+          "name": "L'apprenti schtroumpf [Texte imprimé]",
           "size": 1039
         },
         {
-          "name": "Schtroumpf vert et vert schtroumpf [Texte imprim\u00e9]",
+          "name": "Schtroumpf vert et vert schtroumpf [Texte imprimé]",
           "size": 1038
         },
         {
-          "name": "Le b\u00e9b\u00e9 schtroumpf [Texte imprim\u00e9]",
+          "name": "Le bébé schtroumpf [Texte imprimé]",
           "size": 1028
         },
         {
-          "name": "Le King [Texte imprim\u00e9]",
+          "name": "Le King [Texte imprimé]",
           "size": 965
         },
         {
-          "name": "La soupe aux schtroumpfs [Texte imprim\u00e9]",
+          "name": "La soupe aux schtroumpfs [Texte imprimé]",
           "size": 958
         },
         {
-          "name": "Le Roi des cancres [Texte imprim\u00e9]",
+          "name": "Le Roi des cancres [Texte imprimé]",
           "size": 956
         },
         {
-          "name": "Le fortiche de la triche [Texte imprim\u00e9]",
+          "name": "Le fortiche de la triche [Texte imprimé]",
           "size": 954
         },
         {
-          "name": "La lutte des classes [Texte imprim\u00e9]",
+          "name": "La lutte des classes [Texte imprimé]",
           "size": 953
         },
         {
-          "name": "Le Crabe aux pinces d'or [Texte imprim\u00e9]",
+          "name": "Le Crabe aux pinces d'or [Texte imprimé]",
           "size": 881
         },
         {
-          "name": "Un amour de potache [Texte imprim\u00e9]",
+          "name": "Un amour de potache [Texte imprimé]",
           "size": 867
         },
         {
-          "name": "Chantier interdit [Texte imprim\u00e9]",
+          "name": "Chantier interdit [Texte imprimé]",
           "size": 864
         },
         {
-          "name": "Enquete d'amour [Texte imprim\u00e9]",
+          "name": "Enquete d'amour [Texte imprimé]",
           "size": 861
         },
         {
-          "name": "L'\u00e9trange r\u00e9veil du Schtroumpf paresseux [Texte imprim\u00e9]",
+          "name": "L'étrange réveil du Schtroumpf paresseux [Texte imprimé]",
           "size": 859
         },
         {
-          "name": "Le grand foss\u00e9 [Texte imprim\u00e9]",
+          "name": "Le grand fossé [Texte imprimé]",
           "size": 842
         },
         {
@@ -1197,11 +1197,11 @@
           "size": 680
         },
         {
-          "name": "SOS \u00e9l\u00e9phants [Texte imprim\u00e9]",
+          "name": "SOS éléphants [Texte imprimé]",
           "size": 658
         },
         {
-          "name": "Attaque \u00e0 Ithaque [Texte imprim\u00e9]",
+          "name": "Attaque à Ithaque [Texte imprimé]",
           "size": 650
         },
         {
@@ -1209,35 +1209,35 @@
           "size": 582
         },
         {
-          "name": "La cousine Manga [Texte imprim\u00e9]",
+          "name": "La cousine Manga [Texte imprimé]",
           "size": 578
         },
         {
-          "name": "Emeutes \u00e0 New York [Texte imprim\u00e9]",
+          "name": "Emeutes à New York [Texte imprimé]",
           "size": 562
         },
         {
-          "name": "Le vaccin \u00e0 r\u00e9action [Texte imprim\u00e9]",
+          "name": "Le vaccin à réaction [Texte imprimé]",
           "size": 562
         },
         {
-          "name": "Boing ! Boing ! Bunk ! [Texte imprim\u00e9]",
+          "name": "Boing ! Boing ! Bunk ! [Texte imprimé]",
           "size": 808
         },
         {
-          "name": "Moi, gourmand ? [Texte imprim\u00e9]",
+          "name": "Moi, gourmand ? [Texte imprimé]",
           "size": 797
         },
         {
-          "name": "Terrain minets [Texte imprim\u00e9]",
+          "name": "Terrain minets [Texte imprimé]",
           "size": 781
         },
         {
-          "name": "Max part en classe verte [Texte imprim\u00e9]",
+          "name": "Max part en classe verte [Texte imprimé]",
           "size": 778
         },
         {
-          "name": "Devine qui vient d\u00eener ce soir ? [Texte imprim\u00e9]",
+          "name": "Devine qui vient dîner ce soir ? [Texte imprimé]",
           "size": 763
         },
         {
@@ -1245,15 +1245,15 @@
           "size": 757
         },
         {
-          "name": "Traque \u00e0 Montmartre [Texte imprim\u00e9]",
+          "name": "Traque à Montmartre [Texte imprimé]",
           "size": 721
         },
         {
-          "name": "Sang pour sang [Texte imprim\u00e9]",
+          "name": "Sang pour sang [Texte imprimé]",
           "size": 703
         },
         {
-          "name": "T\u00eate \u00e0 claques [Texte imprim\u00e9]",
+          "name": "Tête à claques [Texte imprimé]",
           "size": 701
         },
         {
@@ -1261,15 +1261,15 @@
           "size": 685
         },
         {
-          "name": "Fais de beaux r\u00eaves ! [Texte imprim\u00e9]",
+          "name": "Fais de beaux rêves ! [Texte imprimé]",
           "size": 673
         },
         {
-          "name": "Gare au loup [Texte imprim\u00e9] : cinq histoires courtes",
+          "name": "Gare au loup [Texte imprimé] : cinq histoires courtes",
           "size": 669
         },
         {
-          "name": "L'homme aux mouettes [Texte imprim\u00e9]",
+          "name": "L'homme aux mouettes [Texte imprimé]",
           "size": 661
         },
         {
@@ -1277,31 +1277,31 @@
           "size": 638
         },
         {
-          "name": "Les griffes de l'ours [Texte imprim\u00e9]",
+          "name": "Les griffes de l'ours [Texte imprimé]",
           "size": 636
         },
         {
-          "name": "OK, let's stand up ! [Texte imprim\u00e9]",
+          "name": "OK, let's stand up ! [Texte imprimé]",
           "size": 631
         },
         {
-          "name": "La vengeance du prince Melcar [Texte imprim\u00e9]",
+          "name": "La vengeance du prince Melcar [Texte imprimé]",
           "size": 616
         },
         {
-          "name": "Chaud et froid [Texte imprim\u00e9]",
+          "name": "Chaud et froid [Texte imprimé]",
           "size": 604
         },
         {
-          "name": "Le proph\u00e8te [Texte imprim\u00e9]",
+          "name": "Le prophète [Texte imprimé]",
           "size": 602
         },
         {
-          "name": "Tremblez, carcasses [Texte imprim\u00e9]",
+          "name": "Tremblez, carcasses [Texte imprimé]",
           "size": 593
         },
         {
-          "name": "Z\u00e9lie et compagnie [Texte imprim\u00e9] : en avant toute !",
+          "name": "Zélie et compagnie [Texte imprimé] : en avant toute !",
           "size": 590
         },
         {
@@ -1309,59 +1309,59 @@
           "size": 1841
         },
         {
-          "name": "Abracada...boum ! [Texte imprim\u00e9]",
+          "name": "Abracada...boum ! [Texte imprimé]",
           "size": 1766
         },
         {
-          "name": "Poux, papous et pas papous [Texte imprim\u00e9]",
+          "name": "Poux, papous et pas papous [Texte imprimé]",
           "size": 1765
         },
         {
-          "name": "Max et Lili aident les enfants du monde [Texte imprim\u00e9]",
+          "name": "Max et Lili aident les enfants du monde [Texte imprimé]",
           "size": 1756
         },
         {
-          "name": "Les premiers de la casse [Texte imprim\u00e9]",
+          "name": "Les premiers de la casse [Texte imprimé]",
           "size": 1755
         },
         {
-          "name": "Lili se trouve moche [Texte imprim\u00e9]",
+          "name": "Lili se trouve moche [Texte imprimé]",
           "size": 1634
         },
         {
-          "name": "Les mabouls d\u00e9boulent ! [Texte imprim\u00e9]",
+          "name": "Les mabouls déboulent ! [Texte imprimé]",
           "size": 1590
         },
         {
-          "name": "Lili veut choisir ses habits [Texte imprim\u00e9]",
+          "name": "Lili veut choisir ses habits [Texte imprimé]",
           "size": 1553
         },
         {
-          "name": "Max fait pipi au lit [Texte imprim\u00e9]",
+          "name": "Max fait pipi au lit [Texte imprimé]",
           "size": 1486
         },
         {
-          "name": "Lili a \u00e9t\u00e9 suivie [Texte imprim\u00e9]",
+          "name": "Lili a été suivie [Texte imprimé]",
           "size": 1462
         },
         {
-          "name": "Fr\u00e8res ennemis [Texte imprim\u00e9]",
+          "name": "Frères ennemis [Texte imprimé]",
           "size": 1458
         },
         {
-          "name": "J\u00e9r\u00e9my est maltrait\u00e9 [Texte imprim\u00e9]",
+          "name": "Jérémy est maltraité [Texte imprimé]",
           "size": 1394
         },
         {
-          "name": "Max est casse-cou [Texte imprim\u00e9]",
+          "name": "Max est casse-cou [Texte imprimé]",
           "size": 1392
         },
         {
-          "name": "Un enfant chez les schtroumpfs [Texte imprim\u00e9]",
+          "name": "Un enfant chez les schtroumpfs [Texte imprimé]",
           "size": 1354
         },
         {
-          "name": "Lili a peur des contr\u00f4les [Texte imprim\u00e9]",
+          "name": "Lili a peur des contrôles [Texte imprimé]",
           "size": 1340
         },
         {
@@ -1369,27 +1369,27 @@
           "size": 1277
         },
         {
-          "name": "L'as des pitres [Texte imprim\u00e9]",
+          "name": "L'as des pitres [Texte imprimé]",
           "size": 1243
         },
         {
-          "name": "Ast\u00e9rix et Latraviata [Texte imprim\u00e9]",
+          "name": "Astérix et Latraviata [Texte imprimé]",
           "size": 1004
         },
         {
-          "name": "Max a une amoureuse [Texte imprim\u00e9]",
+          "name": "Max a une amoureuse [Texte imprimé]",
           "size": 987
         },
         {
-          "name": "Papa a de la classe [Texte imprim\u00e9]",
+          "name": "Papa a de la classe [Texte imprimé]",
           "size": 850
         },
         {
-          "name": "Les schtroumpfs olympiques [Texte imprim\u00e9]",
+          "name": "Les schtroumpfs olympiques [Texte imprimé]",
           "size": 832
         },
         {
-          "name": "Ariol [Texte imprim\u00e9] : le chevalier cheval",
+          "name": "Ariol [Texte imprimé] : le chevalier cheval",
           "size": 830
         },
         {
@@ -1397,23 +1397,23 @@
           "size": 822
         },
         {
-          "name": "Photo fatale [Texte imprim\u00e9]",
+          "name": "Photo fatale [Texte imprimé]",
           "size": 814
         },
         {
-          "name": "Pleins feux sur le smilodon [Texte imprim\u00e9]",
+          "name": "Pleins feux sur le smilodon [Texte imprimé]",
           "size": 656
         },
         {
-          "name": "Quelle mouche le pique ? [Texte imprim\u00e9]",
+          "name": "Quelle mouche le pique ? [Texte imprimé]",
           "size": 644
         },
         {
-          "name": "Halloween [Texte imprim\u00e9]",
+          "name": "Halloween [Texte imprimé]",
           "size": 638
         },
         {
-          "name": "Va au panier [Texte imprim\u00e9]",
+          "name": "Va au panier [Texte imprimé]",
           "size": 620
         }
       ]
@@ -1422,15 +1422,15 @@
       "name": "Livre jeunesse",
       "children": [
         {
-          "name": "Le th\u00e9\u00e2tre de Barbapapa [Texte imprim\u00e9]",
+          "name": "Le théâtre de Barbapapa [Texte imprimé]",
           "size": 801
         },
         {
-          "name": "L'\u00e9lixir de jouvence",
+          "name": "L'élixir de jouvence",
           "size": 788
         },
         {
-          "name": "Le chantier [Texte imprim\u00e9]",
+          "name": "Le chantier [Texte imprimé]",
           "size": 607
         },
         {
@@ -1438,39 +1438,39 @@
           "size": 569
         },
         {
-          "name": "Le d\u00e9jeuner de la petite ogresse [Texte imprim\u00e9]",
+          "name": "Le déjeuner de la petite ogresse [Texte imprimé]",
           "size": 565
         },
         {
-          "name": "Okil\u00e9l\u00e9 [Texte imprim\u00e9]",
+          "name": "Okilélé [Texte imprimé]",
           "size": 564
         },
         {
-          "name": "Mille secrets de poussins [Texte imprim\u00e9]",
+          "name": "Mille secrets de poussins [Texte imprimé]",
           "size": 560
         },
         {
-          "name": "Roule galette [Texte imprim\u00e9]",
+          "name": "Roule galette [Texte imprimé]",
           "size": 693
         },
         {
-          "name": "Une soupe au caillou [Texte imprim\u00e9]",
+          "name": "Une soupe au caillou [Texte imprimé]",
           "size": 674
         },
         {
-          "name": "Le tunnel [Texte imprim\u00e9]",
+          "name": "Le tunnel [Texte imprimé]",
           "size": 642
         },
         {
-          "name": "Le livre de la nuit [Texte imprim\u00e9]",
+          "name": "Le livre de la nuit [Texte imprimé]",
           "size": 641
         },
         {
-          "name": "Clic, crac... C'est le loup ? [Texte imprim\u00e9]",
+          "name": "Clic, crac... C'est le loup ? [Texte imprimé]",
           "size": 618
         },
         {
-          "name": "La tototte [Texte imprim\u00e9]",
+          "name": "La tototte [Texte imprimé]",
           "size": 598
         },
         {
@@ -1478,15 +1478,15 @@
           "size": 585
         },
         {
-          "name": "L'arbre sans fin [Texte imprim\u00e9]",
+          "name": "L'arbre sans fin [Texte imprimé]",
           "size": 581
         },
         {
-          "name": "La toute petite dame [Texte imprim\u00e9]",
+          "name": "La toute petite dame [Texte imprimé]",
           "size": 608
         },
         {
-          "name": "La famille Souris pr\u00e9pare le nouvel an [Texte imprim\u00e9]",
+          "name": "La famille Souris prépare le nouvel an [Texte imprimé]",
           "size": 602
         },
         {
@@ -1494,31 +1494,31 @@
           "size": 590
         },
         {
-          "name": "Non ! [Texte imprim\u00e9]",
+          "name": "Non ! [Texte imprimé]",
           "size": 583
         },
         {
-          "name": "Au lit tout le monde ! [Texte imprim\u00e9]",
+          "name": "Au lit tout le monde ! [Texte imprimé]",
           "size": 583
         },
         {
-          "name": "Le petit cochon tetu [Texte imprim\u00e9]",
+          "name": "Le petit cochon tetu [Texte imprimé]",
           "size": 578
         },
         {
-          "name": "Mademoiselle Sauve-qui-peut [Texte imprim\u00e9]",
+          "name": "Mademoiselle Sauve-qui-peut [Texte imprimé]",
           "size": 561
         },
         {
-          "name": "Lili est stress\u00e9e par la rentr\u00e9e",
+          "name": "Lili est stressée par la rentrée",
           "size": 2328
         },
         {
-          "name": "Max et lili sont fans de marques [Texte imprim\u00e9]",
+          "name": "Max et lili sont fans de marques [Texte imprimé]",
           "size": 2090
         },
         {
-          "name": "Max est maladroit [Texte imprim\u00e9]",
+          "name": "Max est maladroit [Texte imprimé]",
           "size": 1290
         },
         {
@@ -1526,15 +1526,15 @@
           "size": 1219
         },
         {
-          "name": "Le papa qui avait 10 enfants [Texte imprim\u00e9]",
+          "name": "Le papa qui avait 10 enfants [Texte imprimé]",
           "size": 687
         },
         {
-          "name": "Sur le chantier [Texte imprim\u00e9]",
+          "name": "Sur le chantier [Texte imprimé]",
           "size": 737
         },
         {
-          "name": "Bonjour, poussin [Texte imprim\u00e9]",
+          "name": "Bonjour, poussin [Texte imprimé]",
           "size": 708
         },
         {
@@ -1542,7 +1542,7 @@
           "size": 705
         },
         {
-          "name": "Mimi va camper [Texte imprim\u00e9]",
+          "name": "Mimi va camper [Texte imprimé]",
           "size": 702
         },
         {
@@ -1550,11 +1550,11 @@
           "size": 682
         },
         {
-          "name": "Bonsoir lune [Texte imprim\u00e9]",
+          "name": "Bonsoir lune [Texte imprimé]",
           "size": 674
         },
         {
-          "name": "Mon papa [Texte imprim\u00e9]",
+          "name": "Mon papa [Texte imprimé]",
           "size": 673
         },
         {
@@ -1562,23 +1562,23 @@
           "size": 652
         },
         {
-          "name": "Ma maman [Texte imprim\u00e9]",
+          "name": "Ma maman [Texte imprimé]",
           "size": 642
         },
         {
-          "name": "Mon pull [Texte imprim\u00e9]",
+          "name": "Mon pull [Texte imprimé]",
           "size": 639
         },
         {
-          "name": "Une farce [Texte imprim\u00e9]",
+          "name": "Une farce [Texte imprimé]",
           "size": 626
         },
         {
-          "name": "O\u00f9 est Charlie ? A Hollywood [Texte imprim\u00e9]",
+          "name": "Où est Charlie ? A Hollywood [Texte imprimé]",
           "size": 618
         },
         {
-          "name": "Bonne nuit, Spot ! [Texte imprim\u00e9]",
+          "name": "Bonne nuit, Spot ! [Texte imprimé]",
           "size": 607
         },
         {
@@ -1586,11 +1586,11 @@
           "size": 606
         },
         {
-          "name": "O\u00f9 est Spot, mon petit chien ? [Texte imprim\u00e9]",
+          "name": "Où est Spot, mon petit chien ? [Texte imprimé]",
           "size": 596
         },
         {
-          "name": "Le pou et la puce [Texte imprim\u00e9] : une histoire",
+          "name": "Le pou et la puce [Texte imprimé] : une histoire",
           "size": 571
         },
         {
@@ -1598,11 +1598,11 @@
           "size": 571
         },
         {
-          "name": "Guillaume, l'apprenti sorcier [Texte imprim\u00e9]",
+          "name": "Guillaume, l'apprenti sorcier [Texte imprimé]",
           "size": 568
         },
         {
-          "name": "Lili veut un t\u00e9l\u00e9phone portable",
+          "name": "Lili veut un téléphone portable",
           "size": 2272
         },
         {
@@ -1618,31 +1618,31 @@
           "size": 1316
         },
         {
-          "name": "L'\u00e9cole de Barbapapa [Texte imprim\u00e9]",
+          "name": "L'école de Barbapapa [Texte imprimé]",
           "size": 869
         },
         {
-          "name": "Au travail ! [Texte imprim\u00e9]",
+          "name": "Au travail ! [Texte imprimé]",
           "size": 849
         },
         {
-          "name": "L'hiver de Barbapapa [Texte imprim\u00e9]",
+          "name": "L'hiver de Barbapapa [Texte imprimé]",
           "size": 810
         },
         {
-          "name": "Beaucoup de beaux b\u00e9b\u00e9s",
+          "name": "Beaucoup de beaux bébés",
           "size": 731
         },
         {
-          "name": "Loup [Texte imprim\u00e9]",
+          "name": "Loup [Texte imprimé]",
           "size": 581
         },
         {
-          "name": "Chasseur de primes [Texte imprim\u00e9]",
+          "name": "Chasseur de primes [Texte imprimé]",
           "size": 565
         },
         {
-          "name": "Dinosaures, dinosaures [Texte imprim\u00e9]",
+          "name": "Dinosaures, dinosaures [Texte imprimé]",
           "size": 560
         },
         {
@@ -1650,7 +1650,7 @@
           "size": 787
         },
         {
-          "name": "Trois petits cochons [Texte imprim\u00e9]",
+          "name": "Trois petits cochons [Texte imprimé]",
           "size": 777
         },
         {
@@ -1658,19 +1658,19 @@
           "size": 706
         },
         {
-          "name": "Journal d'un chat assassin [Texte imprim\u00e9]",
+          "name": "Journal d'un chat assassin [Texte imprimé]",
           "size": 680
         },
         {
-          "name": "Le voyage de Barbapapa [Texte imprim\u00e9]",
+          "name": "Le voyage de Barbapapa [Texte imprimé]",
           "size": 673
         },
         {
-          "name": "La famille Souris et la mare aux libellules [Texte imprim\u00e9]",
+          "name": "La famille Souris et la mare aux libellules [Texte imprimé]",
           "size": 666
         },
         {
-          "name": "Tintin et le lac aux requins [Texte imprim\u00e9] : l'album du film",
+          "name": "Tintin et le lac aux requins [Texte imprimé] : l'album du film",
           "size": 617
         },
         {
@@ -1682,55 +1682,55 @@
           "size": 2158
         },
         {
-          "name": "Lili trouve sa ma\u00eetresse m\u00e9chante [Texte imprim\u00e9]",
+          "name": "Lili trouve sa maîtresse méchante [Texte imprimé]",
           "size": 1770
         },
         {
-          "name": "Va-t'en, grand monstre vert ! [Texte imprim\u00e9]",
+          "name": "Va-t'en, grand monstre vert ! [Texte imprimé]",
           "size": 1740
         },
         {
-          "name": "Ca \u00e9pate les filles... [Texte imprim\u00e9]",
+          "name": "Ca épate les filles... [Texte imprimé]",
           "size": 1237
         },
         {
-          "name": "Lili ne veut plus se montrer toute nue [Texte imprim\u00e9]",
+          "name": "Lili ne veut plus se montrer toute nue [Texte imprimé]",
           "size": 1069
         },
         {
-          "name": "A la maternelle avec Mimi [Texte imprim\u00e9]",
+          "name": "A la maternelle avec Mimi [Texte imprimé]",
           "size": 1004
         },
         {
-          "name": "O\u00f9 est Charlie ? [Texte imprim\u00e9] : la grande expo !",
+          "name": "Où est Charlie ? [Texte imprimé] : la grande expo !",
           "size": 914
         },
         {
-          "name": "Max a une amoureuse [Texte imprim\u00e9]",
+          "name": "Max a une amoureuse [Texte imprimé]",
           "size": 813
         },
         {
-          "name": "Les cairns rouges [Texte imprim\u00e9]",
+          "name": "Les cairns rouges [Texte imprimé]",
           "size": 758
         },
         {
-          "name": "Les trois brigands [Texte imprim\u00e9]",
+          "name": "Les trois brigands [Texte imprimé]",
           "size": 731
         },
         {
-          "name": "Plouf ! [Texte imprim\u00e9]",
+          "name": "Plouf ! [Texte imprimé]",
           "size": 731
         },
         {
-          "name": "Dans le loup [Texte imprim\u00e9]",
+          "name": "Dans le loup [Texte imprimé]",
           "size": 723
         },
         {
-          "name": "La nouvelle Z\u00e9lie",
+          "name": "La nouvelle Zélie",
           "size": 706
         },
         {
-          "name": "Qui o\u00f9 quoi [Texte imprim\u00e9]",
+          "name": "Qui où quoi [Texte imprimé]",
           "size": 701
         },
         {
@@ -1738,59 +1738,59 @@
           "size": 696
         },
         {
-          "name": "Roul\u00e9 le loup ! [Texte imprim\u00e9]",
+          "name": "Roulé le loup ! [Texte imprimé]",
           "size": 670
         },
         {
-          "name": "Max et Lili veulent tout tout de suite ! [Texte imprim\u00e9]",
+          "name": "Max et Lili veulent tout tout de suite ! [Texte imprimé]",
           "size": 1732
         },
         {
-          "name": "Allez, les monstres ! [Texte imprim\u00e9]",
+          "name": "Allez, les monstres ! [Texte imprimé]",
           "size": 1190
         },
         {
-          "name": "Et que \u00e7a saute ! [Texte imprim\u00e9]",
+          "name": "Et que ça saute ! [Texte imprimé]",
           "size": 1116
         },
         {
-          "name": "Barbapapa [Texte imprim\u00e9]",
+          "name": "Barbapapa [Texte imprimé]",
           "size": 982
         },
         {
-          "name": "Les vacances de Barbapapa [Texte imprim\u00e9]",
+          "name": "Les vacances de Barbapapa [Texte imprimé]",
           "size": 943
         },
         {
-          "name": "Max a trich\u00e9 [Texte imprim\u00e9]",
+          "name": "Max a triché [Texte imprimé]",
           "size": 927
         },
         {
-          "name": "La maison de Barbapapa [Texte imprim\u00e9]",
+          "name": "La maison de Barbapapa [Texte imprimé]",
           "size": 886
         },
         {
-          "name": "B\u00e9b\u00e9s chouettes [Texte imprim\u00e9]",
+          "name": "Bébés chouettes [Texte imprimé]",
           "size": 886
         },
         {
-          "name": "Max et les Maximonstres [Texte imprim\u00e9]",
+          "name": "Max et les Maximonstres [Texte imprimé]",
           "size": 870
         },
         {
-          "name": "Le g\u00e9ant de Z\u00e9ralda [Texte imprim\u00e9]",
+          "name": "Le géant de Zéralda [Texte imprimé]",
           "size": 820
         },
         {
-          "name": "Max a la passion du foot [Texte imprim\u00e9]",
+          "name": "Max a la passion du foot [Texte imprimé]",
           "size": 818
         },
         {
-          "name": "Papa pousse [Texte imprim\u00e9]",
+          "name": "Papa pousse [Texte imprimé]",
           "size": 648
         },
         {
-          "name": "Tous en sc\u00e8ne !",
+          "name": "Tous en scène !",
           "size": 648
         },
         {
@@ -1798,7 +1798,7 @@
           "size": 646
         },
         {
-          "name": "Maman Quichon se f\u00e2che [Texte imprim\u00e9]",
+          "name": "Maman Quichon se fâche [Texte imprimé]",
           "size": 599
         },
         {
@@ -1806,67 +1806,67 @@
           "size": 593
         },
         {
-          "name": "Le voyage de l'escargot [Texte imprim\u00e9]",
+          "name": "Le voyage de l'escargot [Texte imprimé]",
           "size": 579
         },
         {
-          "name": "Je veux des p\u00e2tes ! [Texte imprim\u00e9]",
+          "name": "Je veux des pâtes ! [Texte imprimé]",
           "size": 566
         },
         {
-          "name": "L'arbre de Barbapapa [Texte imprim\u00e9]",
+          "name": "L'arbre de Barbapapa [Texte imprimé]",
           "size": 796
         },
         {
-          "name": "L'arche de Barbapapa [Texte imprim\u00e9]",
+          "name": "L'arche de Barbapapa [Texte imprimé]",
           "size": 773
         },
         {
-          "name": "Ma voiture [Texte imprim\u00e9]",
+          "name": "Ma voiture [Texte imprimé]",
           "size": 721
         },
         {
-          "name": "Petit-Bleu et Petit-Jaune [Texte imprim\u00e9] : une histoire pour Pippo, Ann et tous les enfants",
+          "name": "Petit-Bleu et Petit-Jaune [Texte imprimé] : une histoire pour Pippo, Ann et tous les enfants",
           "size": 705
         },
         {
-          "name": "Barbapapa sur Mars [Texte imprim\u00e9]",
+          "name": "Barbapapa sur Mars [Texte imprimé]",
           "size": 688
         },
         {
-          "name": "Toc ! Toc ! Qui est l\u00e0 ? [Texte imprim\u00e9]",
+          "name": "Toc ! Toc ! Qui est là ? [Texte imprimé]",
           "size": 637
         },
         {
-          "name": "O\u00f9 est Charlie ? Le voyage fantastique [Texte imprim\u00e9]",
+          "name": "Où est Charlie ? Le voyage fantastique [Texte imprimé]",
           "size": 632
         },
         {
-          "name": "Le petit d\u00e9jeuner de la famille Souris [Texte imprim\u00e9]",
+          "name": "Le petit déjeuner de la famille Souris [Texte imprimé]",
           "size": 625
         },
         {
-          "name": "Yakari et Longues-Oreilles [Texte imprim\u00e9]",
+          "name": "Yakari et Longues-Oreilles [Texte imprimé]",
           "size": 624
         },
         {
-          "name": "Bloub bloub bloub [Texte imprim\u00e9]",
+          "name": "Bloub bloub bloub [Texte imprimé]",
           "size": 618
         },
         {
-          "name": "Blaise et le ch\u00e2teau d'Anne Hivers\u00e8re [Texte imprim\u00e9]",
+          "name": "Blaise et le château d'Anne Hiversère [Texte imprimé]",
           "size": 586
         },
         {
-          "name": "Max emb\u00eate les filles [Texte imprim\u00e9]",
+          "name": "Max embête les filles [Texte imprimé]",
           "size": 1641
         },
         {
-          "name": "Max adore jouer [Texte imprim\u00e9]",
+          "name": "Max adore jouer [Texte imprimé]",
           "size": 1542
         },
         {
-          "name": "Max et Koffi sont copains [Texte imprim\u00e9]",
+          "name": "Max et Koffi sont copains [Texte imprimé]",
           "size": 1315
         },
         {
@@ -1878,28 +1878,28 @@
           "size": 853
         },
         {
-          "name": "Grosse col\u00e8re [Texte imprim\u00e9]",
+          "name": "Grosse colère [Texte imprimé]",
           "size": 852
         },
         {
-          "name": "Grrr ! [Texte imprim\u00e9]",
+          "name": "Grrr ! [Texte imprimé]",
           "size": 829
         },
         {
-          "name": "Quel chantier ! [Texte imprim\u00e9]",
+          "name": "Quel chantier ! [Texte imprimé]",
           "size": 665
         },
         {
-          "name": "C'est l'heure du bain, petit lion [Texte imprim\u00e9]",
+          "name": "C'est l'heure du bain, petit lion [Texte imprimé]",
           "size": 660
         }
       ]
     },
     {
-      "name": "Bande dessin\u00e9e adulte",
+      "name": "Bande dessinée adulte",
       "children": [
         {
-          "name": "Ast\u00e9rix chez les Belges [Texte imprim\u00e9]",
+          "name": "Astérix chez les Belges [Texte imprimé]",
           "size": 801
         },
         {
@@ -1907,35 +1907,35 @@
           "size": 784
         },
         {
-          "name": "Le bouclier arverne [Texte imprim\u00e9]",
+          "name": "Le bouclier arverne [Texte imprimé]",
           "size": 748
         },
         {
-          "name": "Poulet aux prunes [Texte imprim\u00e9]",
+          "name": "Poulet aux prunes [Texte imprimé]",
           "size": 564
         },
         {
-          "name": "Furari : au gr\u00e9 du vent",
+          "name": "Furari : au gré du vent",
           "size": 591
         },
         {
-          "name": "Ast\u00e9rix chez les Helv\u00e8tes [Texte imprim\u00e9]",
+          "name": "Astérix chez les Helvètes [Texte imprimé]",
           "size": 610
         },
         {
-          "name": "La bar-mitsva [Texte imprim\u00e9]",
+          "name": "La bar-mitsva [Texte imprimé]",
           "size": 607
         },
         {
-          "name": "Le domaine des dieux [Texte imprim\u00e9]",
+          "name": "Le domaine des dieux [Texte imprimé]",
           "size": 1208
         },
         {
-          "name": "Ast\u00e9rix le Gaulois [Texte imprim\u00e9]",
+          "name": "Astérix le Gaulois [Texte imprimé]",
           "size": 697
         },
         {
-          "name": "Ast\u00e9rix gladiateur [Texte imprim\u00e9]",
+          "name": "Astérix gladiateur [Texte imprimé]",
           "size": 797
         },
         {
@@ -1943,11 +1943,11 @@
           "size": 721
         },
         {
-          "name": "Ast\u00e9rix en Hispanie [Texte imprim\u00e9]",
+          "name": "Astérix en Hispanie [Texte imprimé]",
           "size": 673
         },
         {
-          "name": "Ast\u00e9rix l\u00e9gionnaire [Texte imprim\u00e9]",
+          "name": "Astérix légionnaire [Texte imprimé]",
           "size": 678
         },
         {
@@ -1955,27 +1955,27 @@
           "size": 626
         },
         {
-          "name": "L'oreille cass\u00e9e [Texte imprim\u00e9]",
+          "name": "L'oreille cassée [Texte imprimé]",
           "size": 1226
         },
         {
-          "name": "Tintin et les Picaros [Texte imprim\u00e9]",
+          "name": "Tintin et les Picaros [Texte imprimé]",
           "size": 1194
         },
         {
-          "name": "Les cigares du pharaon [Texte imprim\u00e9]",
+          "name": "Les cigares du pharaon [Texte imprimé]",
           "size": 1065
         },
         {
-          "name": "On a march\u00e9 sur la lune [Texte imprim\u00e9]",
+          "name": "On a marché sur la lune [Texte imprimé]",
           "size": 1044
         },
         {
-          "name": "Le combat des chefs [Texte imprim\u00e9]",
+          "name": "Le combat des chefs [Texte imprimé]",
           "size": 931
         },
         {
-          "name": "Objectif lune [Texte imprim\u00e9]",
+          "name": "Objectif lune [Texte imprimé]",
           "size": 896
         },
         {
@@ -1987,19 +1987,19 @@
           "size": 701
         },
         {
-          "name": "Demandez le programme [Texte imprim\u00e9]",
+          "name": "Demandez le programme [Texte imprimé]",
           "size": 581
         },
         {
-          "name": "La zizanie [Texte imprim\u00e9]",
+          "name": "La zizanie [Texte imprimé]",
           "size": 562
         },
         {
-          "name": "Aya de Yopougon. 1 [Texte imprim\u00e9]",
+          "name": "Aya de Yopougon. 1 [Texte imprimé]",
           "size": 781
         },
         {
-          "name": "Aya de Yopougon. 4 [Texte imprim\u00e9]",
+          "name": "Aya de Yopougon. 4 [Texte imprimé]",
           "size": 708
         },
         {
@@ -2007,11 +2007,11 @@
           "size": 704
         },
         {
-          "name": "Garfield mange plus vite que son ombre [Texte imprim\u00e9]",
+          "name": "Garfield mange plus vite que son ombre [Texte imprimé]",
           "size": 696
         },
         {
-          "name": "Le sanctuaire du Gondwana [Texte imprim\u00e9]",
+          "name": "Le sanctuaire du Gondwana [Texte imprimé]",
           "size": 694
         },
         {
@@ -2019,87 +2019,87 @@
           "size": 684
         },
         {
-          "name": "Le tr\u00e9sor de Rackham le Rouge [Texte imprim\u00e9]",
+          "name": "Le trésor de Rackham le Rouge [Texte imprimé]",
           "size": 1134
         },
         {
-          "name": "Ast\u00e9rix et les Normands [Texte imprim\u00e9]",
+          "name": "Astérix et les Normands [Texte imprimé]",
           "size": 1114
         },
         {
-          "name": "L'\u00e9toile myst\u00e9rieuse [Texte imprim\u00e9]",
+          "name": "L'étoile mystérieuse [Texte imprimé]",
           "size": 1088
         },
         {
-          "name": "Tintin au Congo [Texte imprim\u00e9]",
+          "name": "Tintin au Congo [Texte imprimé]",
           "size": 1085
         },
         {
-          "name": "Les bijoux de la Castafiore [Texte imprim\u00e9]",
+          "name": "Les bijoux de la Castafiore [Texte imprimé]",
           "size": 1076
         },
         {
-          "name": "Tintin au Tibet [Texte imprim\u00e9]",
+          "name": "Tintin au Tibet [Texte imprimé]",
           "size": 1049
         },
         {
-          "name": "Tintin en Am\u00e9rique [Texte imprim\u00e9]",
+          "name": "Tintin en Amérique [Texte imprimé]",
           "size": 906
         },
         {
-          "name": "Le tour de Gaule d'Ast\u00e9rix [Texte imprim\u00e9]",
+          "name": "Le tour de Gaule d'Astérix [Texte imprimé]",
           "size": 884
         },
         {
-          "name": "Les 7 boules de cristal [Texte imprim\u00e9]",
+          "name": "Les 7 boules de cristal [Texte imprimé]",
           "size": 1156
         },
         {
-          "name": "Tintin au pays de l'or noir [Texte imprim\u00e9]",
+          "name": "Tintin au pays de l'or noir [Texte imprimé]",
           "size": 1138
         },
         {
-          "name": "L'\u00eele noire [Texte imprim\u00e9]",
+          "name": "L'île noire [Texte imprimé]",
           "size": 1124
         },
         {
-          "name": "Le secret de la Licorne [Texte imprim\u00e9]",
+          "name": "Le secret de la Licorne [Texte imprimé]",
           "size": 1123
         },
         {
-          "name": "Le sceptre d'Ottokar [Texte imprim\u00e9]",
+          "name": "Le sceptre d'Ottokar [Texte imprimé]",
           "size": 1093
         },
         {
-          "name": "Ast\u00e9rix et les Goths [Texte imprim\u00e9]",
+          "name": "Astérix et les Goths [Texte imprimé]",
           "size": 832
         },
         {
-          "name": "Aya de Yopougon. 2 [Texte imprim\u00e9]",
+          "name": "Aya de Yopougon. 2 [Texte imprimé]",
           "size": 739
         },
         {
-          "name": "Les ignorants : r\u00e9cit d'une initiation crois\u00e9e",
+          "name": "Les ignorants : récit d'une initiation croisée",
           "size": 672
         },
         {
-          "name": "Ob\u00e9lix et compagnie [Texte imprim\u00e9]",
+          "name": "Obélix et compagnie [Texte imprimé]",
           "size": 1253
         },
         {
-          "name": "La grande travers\u00e9e [Texte imprim\u00e9]",
+          "name": "La grande traversée [Texte imprimé]",
           "size": 1245
         },
         {
-          "name": "L'odyss\u00e9e d'Ast\u00e9rix [Texte imprim\u00e9]",
+          "name": "L'odyssée d'Astérix [Texte imprimé]",
           "size": 1113
         },
         {
-          "name": "Le temple du soleil [Texte imprim\u00e9]",
+          "name": "Le temple du soleil [Texte imprimé]",
           "size": 839
         },
         {
-          "name": "Asterix en Corse [Texte imprim\u00e9]",
+          "name": "Asterix en Corse [Texte imprimé]",
           "size": 654
         },
         {
@@ -2107,7 +2107,7 @@
           "size": 642
         },
         {
-          "name": "La serpe d'or [Texte imprim\u00e9]",
+          "name": "La serpe d'or [Texte imprimé]",
           "size": 587
         },
         {
@@ -2115,7 +2115,7 @@
           "size": 806
         },
         {
-          "name": "Un amour de lapin [Texte imprim\u00e9]",
+          "name": "Un amour de lapin [Texte imprimé]",
           "size": 761
         },
         {
@@ -2123,47 +2123,47 @@
           "size": 757
         },
         {
-          "name": "Aya de Yopougon. 3 [Texte imprim\u00e9]",
+          "name": "Aya de Yopougon. 3 [Texte imprimé]",
           "size": 713
         },
         {
-          "name": "Ast\u00e9rix et la rentr\u00e9e gauloise [Texte imprim\u00e9] : Goscinny et Uderzo",
+          "name": "Astérix et la rentrée gauloise [Texte imprimé] : Goscinny et Uderzo",
           "size": 591
         },
         {
-          "name": "Ast\u00e9rix aux Jeux Olympiques [Texte imprim\u00e9]",
+          "name": "Astérix aux Jeux Olympiques [Texte imprimé]",
           "size": 1205
         },
         {
-          "name": "Vol 714 pour Sydney [Texte imprim\u00e9]",
+          "name": "Vol 714 pour Sydney [Texte imprimé]",
           "size": 1193
         },
         {
-          "name": "Le lotus bleu [Texte imprim\u00e9]",
+          "name": "Le lotus bleu [Texte imprimé]",
           "size": 1136
         },
         {
-          "name": "Ast\u00e9rix et le chaudron [Texte imprim\u00e9]",
+          "name": "Astérix et le chaudron [Texte imprimé]",
           "size": 1124
         },
         {
-          "name": "L'affaire Tournesol [Texte imprim\u00e9]",
+          "name": "L'affaire Tournesol [Texte imprimé]",
           "size": 1103
         },
         {
-          "name": "Coke en stock [Texte imprim\u00e9]",
+          "name": "Coke en stock [Texte imprimé]",
           "size": 1093
         },
         {
-          "name": "Le cadeau de C\u00e9sar [Texte imprim\u00e9]",
+          "name": "Le cadeau de César [Texte imprimé]",
           "size": 1015
         },
         {
-          "name": "Les lauriers de C\u00e9sar [Texte imprim\u00e9]",
+          "name": "Les lauriers de César [Texte imprimé]",
           "size": 651
         },
         {
-          "name": "Tout schuss [Texte imprim\u00e9]",
+          "name": "Tout schuss [Texte imprimé]",
           "size": 616
         }
       ]
@@ -2172,7 +2172,7 @@
       "name": "Livre adulte",
       "children": [
         {
-          "name": "Un lieu incertain [Texte imprim\u00e9]",
+          "name": "Un lieu incertain [Texte imprimé]",
           "size": 791
         },
         {
@@ -2180,7 +2180,7 @@
           "size": 783
         },
         {
-          "name": "La princesse des glaces [Texte imprim\u00e9] : roman",
+          "name": "La princesse des glaces [Texte imprimé] : roman",
           "size": 760
         },
         {
@@ -2188,7 +2188,7 @@
           "size": 612
         },
         {
-          "name": "Le l\u00e9opard",
+          "name": "Le léopard",
           "size": 570
         },
         {
@@ -2204,11 +2204,11 @@
           "size": 696
         },
         {
-          "name": "Le pr\u00e9dicateur",
+          "name": "Le prédicateur",
           "size": 679
         },
         {
-          "name": "Les hommes qui n'aimaient pas les femmes [Texte imprim\u00e9] : roman",
+          "name": "Les hommes qui n'aimaient pas les femmes [Texte imprimé] : roman",
           "size": 664
         },
         {
@@ -2216,11 +2216,11 @@
           "size": 639
         },
         {
-          "name": "La vie tr\u00e8s priv\u00e9e de Mr Sim : roman",
+          "name": "La vie très privée de Mr Sim : roman",
           "size": 617
         },
         {
-          "name": "7 ans apr\u00e8s...",
+          "name": "7 ans après...",
           "size": 612
         },
         {
@@ -2232,7 +2232,7 @@
           "size": 752
         },
         {
-          "name": "La d\u00e9licatesse : roman",
+          "name": "La délicatesse : roman",
           "size": 634
         },
         {
@@ -2264,11 +2264,11 @@
           "size": 625
         },
         {
-          "name": "La fille qui revait d'un bidon d'essence et d'une allumette [Texte imprim\u00e9] : roman",
+          "name": "La fille qui revait d'un bidon d'essence et d'une allumette [Texte imprimé] : roman",
           "size": 598
         },
         {
-          "name": "Le champ du potier [Texte imprim\u00e9]",
+          "name": "Le champ du potier [Texte imprimé]",
           "size": 597
         },
         {
@@ -2280,11 +2280,11 @@
           "size": 572
         },
         {
-          "name": "L'art fran\u00e7ais de la guerre [Texte imprim\u00e9]",
+          "name": "L'art français de la guerre [Texte imprimé]",
           "size": 821
         },
         {
-          "name": "Les \u00e9cureuils de Central Park sont tristes le lundi : roman [Texte imprim\u00e9]",
+          "name": "Les écureuils de Central Park sont tristes le lundi : roman [Texte imprimé]",
           "size": 824
         },
         {
@@ -2296,7 +2296,7 @@
           "size": 2091
         },
         {
-          "name": "Lili est harcel\u00e9e \u00e0 l'\u00e9cole",
+          "name": "Lili est harcelée à l'école",
           "size": 1630
         },
         {
@@ -2312,7 +2312,7 @@
           "size": 690
         },
         {
-          "name": "La reine dans le palais des courants d'air [Texte imprim\u00e9]",
+          "name": "La reine dans le palais des courants d'air [Texte imprimé]",
           "size": 993
         },
         {
@@ -2325,171 +2325,171 @@
       "name": "Revue adulte",
       "children": [
         {
-          "name": "Rustica hebdo [texte imprim\u00e9]",
+          "name": "Rustica hebdo [texte imprimé]",
           "size": 781
         },
         {
-          "name": "SVM Mac [texte imprim\u00e9]",
+          "name": "SVM Mac [texte imprimé]",
           "size": 612
         },
         {
-          "name": "Les Dossiers d'arch\u00e9ologie [texte imprim\u00e9]",
+          "name": "Les Dossiers d'archéologie [texte imprimé]",
           "size": 677
         },
         {
-          "name": "Grazia [texte imprim\u00e9]",
+          "name": "Grazia [texte imprimé]",
           "size": 638
         },
         {
-          "name": "Technik'art [texte imprim\u00e9] : magazine gratuit de la cr\u00e9ation",
+          "name": "Technik'art [texte imprimé] : magazine gratuit de la création",
           "size": 592
         },
         {
-          "name": "Que choisir ? [texte imprim\u00e9]",
+          "name": "Que choisir ? [texte imprimé]",
           "size": 7016
         },
         {
-          "name": "60 millions de consommateurs [texte imprim\u00e9] : le magazine sans publicit\u00e9",
+          "name": "60 millions de consommateurs [texte imprimé] : le magazine sans publicité",
           "size": 6589
         },
         {
-          "name": "Le Point [texte imprim\u00e9]",
+          "name": "Le Point [texte imprimé]",
           "size": 6531
         },
         {
-          "name": "La Science et la vie [texte imprim\u00e9]",
+          "name": "La Science et la vie [texte imprimé]",
           "size": 4397
         },
         {
-          "name": "Le Figaro magazine [texte imprim\u00e9]",
+          "name": "Le Figaro magazine [texte imprimé]",
           "size": 4292
         },
         {
-          "name": "Sant\u00e9 magazine [texte imprim\u00e9]",
+          "name": "Santé magazine [texte imprimé]",
           "size": 4147
         },
         {
-          "name": "M, le nouveau magazine du Monde [Texte imprim\u00e9]",
+          "name": "M, le nouveau magazine du Monde [Texte imprimé]",
           "size": 3243
         },
         {
-          "name": "Marie-Claire [texte imprim\u00e9]",
+          "name": "Marie-Claire [texte imprimé]",
           "size": 3196
         },
         {
-          "name": "Le Particulier [texte imprim\u00e9] : la documentation pratique des particuliers",
+          "name": "Le Particulier [texte imprimé] : la documentation pratique des particuliers",
           "size": 2943
         },
         {
-          "name": "Fluide glacial [texte imprim\u00e9]",
+          "name": "Fluide glacial [texte imprimé]",
           "size": 2639
         },
         {
-          "name": "L'Ami des jardins et de la maison [texte imprim\u00e9]",
+          "name": "L'Ami des jardins et de la maison [texte imprimé]",
           "size": 2535
         },
         {
-          "name": "Historia [texte imprim\u00e9]",
+          "name": "Historia [texte imprimé]",
           "size": 2477
         },
         {
-          "name": "Internet pratique [Texte imprim\u00e9]",
+          "name": "Internet pratique [Texte imprimé]",
           "size": 2456
         },
         {
-          "name": "Vocable [texte imprim\u00e9] : espagnol",
+          "name": "Vocable [texte imprimé] : espagnol",
           "size": 2362
         },
         {
-          "name": "Notre temps [texte imprim\u00e9]",
+          "name": "Notre temps [texte imprimé]",
           "size": 2355
         },
         {
-          "name": "Time [texte imprim\u00e9] : the weekly newsmagazine",
+          "name": "Time [texte imprimé] : the weekly newsmagazine",
           "size": 2307
         },
         {
-          "name": "D\u00e9tours en France [texte imprim\u00e9] : paysage, habitat, gastronomie, flore, faune",
+          "name": "Détours en France [texte imprimé] : paysage, habitat, gastronomie, flore, faune",
           "size": 2203
         },
         {
-          "name": "Jeune Afrique [texte imprim\u00e9] : hebdomadaire africain et international ind\u00e9pendant",
+          "name": "Jeune Afrique [texte imprimé] : hebdomadaire africain et international indépendant",
           "size": 2134
         },
         {
-          "name": "Causette [Texte imprim\u00e9] : plus f\u00e9minine du cerveau que du capiton",
+          "name": "Causette [Texte imprimé] : plus féminine du cerveau que du capiton",
           "size": 1954
         },
         {
-          "name": "Rock & folk [texte imprim\u00e9]",
+          "name": "Rock & folk [texte imprimé]",
           "size": 1815
         },
         {
-          "name": "Newsweek [texte imprim\u00e9] : international news magazine",
+          "name": "Newsweek [texte imprimé] : international news magazine",
           "size": 1633
         },
         {
-          "name": "Le Monde des religions [texte imprim\u00e9]",
+          "name": "Le Monde des religions [texte imprimé]",
           "size": 1510
         },
         {
-          "name": "L'Auto-journal [texte imprim\u00e9] : combat pour l'automobile",
+          "name": "L'Auto-journal [texte imprimé] : combat pour l'automobile",
           "size": 1363
         },
         {
-          "name": "Etapes [texte imprim\u00e9] : graphisme, design, image, cr\u00e9ation",
+          "name": "Etapes [texte imprimé] : graphisme, design, image, création",
           "size": 782
         },
         {
-          "name": "Syst\u00e8me D [texte imprim\u00e9] : des r\u00e9alisations \u00e0 faire soi-m\u00eame ; [dir. publ. J.P. Ventillard]",
+          "name": "Système D [texte imprimé] : des réalisations à faire soi-même ; [dir. publ. J.P. Ventillard]",
           "size": 734
         },
         {
-          "name": "Valeurs actuelles [texte imprim\u00e9]",
+          "name": "Valeurs actuelles [texte imprimé]",
           "size": 702
         },
         {
-          "name": "Rebondir [texte imprim\u00e9] : le magazine anti-ch\u00f4mage",
+          "name": "Rebondir [texte imprimé] : le magazine anti-chômage",
           "size": 674
         },
         {
-          "name": "Le Nouvel observateur [texte imprim\u00e9]",
+          "name": "Le Nouvel observateur [texte imprimé]",
           "size": 7215
         },
         {
-          "name": "Micro hebdo [texte imprim\u00e9] : simplifiez-vous la micro",
+          "name": "Micro hebdo [texte imprimé] : simplifiez-vous la micro",
           "size": 9452
         },
         {
-          "name": "Marianne [texte imprim\u00e9]",
+          "name": "Marianne [texte imprimé]",
           "size": 7519
         },
         {
-          "name": "Les Inrockuptibles [texte imprim\u00e9]",
+          "name": "Les Inrockuptibles [texte imprimé]",
           "size": 6420
         },
         {
-          "name": "Madame Figaro [texte imprim\u00e9]",
+          "name": "Madame Figaro [texte imprimé]",
           "size": 6269
         },
         {
-          "name": "G\u00e9o [texte imprim\u00e9]",
+          "name": "Géo [texte imprimé]",
           "size": 6123
         },
         {
-          "name": "Psychologies [magazine] [texte imprim\u00e9] : comprendre, savoir, agir dans le monde d'aujourd'hui",
+          "name": "Psychologies [magazine] [texte imprimé] : comprendre, savoir, agir dans le monde d'aujourd'hui",
           "size": 5848
         },
         {
-          "name": "Courrier international [texte imprim\u00e9]",
+          "name": "Courrier international [texte imprimé]",
           "size": 5488
         },
         {
-          "name": "Sciences humaines [texte imprim\u00e9]",
+          "name": "Sciences humaines [texte imprimé]",
           "size": 3959
         },
         {
-          "name": "Sciences et avenir [texte imprim\u00e9]",
+          "name": "Sciences et avenir [texte imprimé]",
           "size": 3642
         },
         {
@@ -2497,348 +2497,348 @@
           "size": 3496
         },
         {
-          "name": "Lire [texte imprim\u00e9] : Le magazine des livres",
+          "name": "Lire [texte imprimé] : Le magazine des livres",
           "size": 3139
         },
         {
-          "name": "Alternatives \u00e9conomiques [texte imprim\u00e9] : journal d'information critique sur l'actualit\u00e9 \u00e9conomique et sociale",
+          "name": "Alternatives économiques [texte imprimé] : journal d'information critique sur l'actualité économique et sociale",
           "size": 2530
         },
         {
-          "name": "Modes et travaux [texte imprim\u00e9]",
+          "name": "Modes et travaux [texte imprimé]",
           "size": 2476
         },
         {
-          "name": "XXI [texte imprim\u00e9] : l'information grand format",
+          "name": "XXI [texte imprimé] : l'information grand format",
           "size": 1460
         },
         {
-          "name": "Politis, [texte imprim\u00e9] : l'hebdomadaire citoyen du jeudi",
+          "name": "Politis, [texte imprimé] : l'hebdomadaire citoyen du jeudi",
           "size": 1306
         },
         {
-          "name": "Positif [texte imprim\u00e9] : revue mensuelle de cin\u00e9ma",
+          "name": "Positif [texte imprimé] : revue mensuelle de cinéma",
           "size": 1255
         },
         {
-          "name": "Le D\u00e9bat [texte imprim\u00e9] : histoire, politique, soci\u00e9t\u00e9",
+          "name": "Le Débat [texte imprimé] : histoire, politique, société",
           "size": 1247
         },
         {
-          "name": "The Economist [texte imprim\u00e9]",
+          "name": "The Economist [texte imprimé]",
           "size": 1066
         },
         {
-          "name": "Elle \u00e0 table [texte imprim\u00e9]",
+          "name": "Elle à table [texte imprimé]",
           "size": 984
         },
         {
-          "name": "Charlie hebdo [texte imprim\u00e9]",
+          "name": "Charlie hebdo [texte imprimé]",
           "size": 928
         },
         {
-          "name": "Le Canard encha\u00een\u00e9 [texte imprim\u00e9] : journal humoristique hebdomadaire",
+          "name": "Le Canard enchaîné [texte imprimé] : journal humoristique hebdomadaire",
           "size": 875
         },
         {
-          "name": "D'A [texte imprim\u00e9] : d'architectures : le magazine professionnel de la cr\u00e9ation architecturale",
+          "name": "D'A [texte imprimé] : d'architectures : le magazine professionnel de la création architecturale",
           "size": 721
         },
         {
-          "name": "Studio cin\u00e9 live magazine [texte imprim\u00e9] : un nouveau magazine pour tous les cin\u00e9mas",
+          "name": "Studio ciné live magazine [texte imprimé] : un nouveau magazine pour tous les cinémas",
           "size": 586
         },
         {
-          "name": "L'Oeil [texte imprim\u00e9] : revue d'art mensuelle",
+          "name": "L'Oeil [texte imprimé] : revue d'art mensuelle",
           "size": 737
         },
         {
-          "name": "IDEAT [texte imprim\u00e9] : id\u00e9es, d\u00e9coration, \u00e9vasion, art, tendances",
+          "name": "IDEAT [texte imprimé] : idées, décoration, évasion, art, tendances",
           "size": 719
         },
         {
-          "name": "Cosmopolitan [texte imprim\u00e9]",
+          "name": "Cosmopolitan [texte imprimé]",
           "size": 612
         },
         {
-          "name": "La Quinzaine litt\u00e9raire [texte imprim\u00e9]",
+          "name": "La Quinzaine littéraire [texte imprimé]",
           "size": 594
         },
         {
-          "name": "Paris match [texte imprim\u00e9]",
+          "name": "Paris match [texte imprimé]",
           "size": 6920
         },
         {
-          "name": "Philosophie magazine [texte imprim\u00e9]",
+          "name": "Philosophie magazine [texte imprimé]",
           "size": 5078
         },
         {
-          "name": "Beaux-arts magazine [texte imprim\u00e9]",
+          "name": "Beaux-arts magazine [texte imprimé]",
           "size": 4292
         },
         {
-          "name": "Le Magazine litt\u00e9raire [texte imprim\u00e9]",
+          "name": "Le Magazine littéraire [texte imprimé]",
           "size": 4065
         },
         {
-          "name": "Cuisine et vins de France [texte imprim\u00e9]",
+          "name": "Cuisine et vins de France [texte imprimé]",
           "size": 3005
         },
         {
-          "name": "Marie Claire maison [texte imprim\u00e9]",
+          "name": "Marie Claire maison [texte imprimé]",
           "size": 2865
         },
         {
-          "name": "Grands reportages [texte imprim\u00e9]",
+          "name": "Grands reportages [texte imprimé]",
           "size": 2632
         },
         {
-          "name": "Ca m'int\u00e9resse [texte imprim\u00e9]",
+          "name": "Ca m'intéresse [texte imprimé]",
           "size": 2513
         },
         {
-          "name": "Mon jardin, ma maison [texte imprim\u00e9]",
+          "name": "Mon jardin, ma maison [texte imprimé]",
           "size": 1628
         },
         {
-          "name": "The New Yorker [texte imprim\u00e9]",
+          "name": "The New Yorker [texte imprimé]",
           "size": 1198
         },
         {
-          "name": "Le Monde diplomatique [texte imprim\u00e9] : journal des cercles diplomatiques et des grandes organisations internationales",
+          "name": "Le Monde diplomatique [texte imprimé] : journal des cercles diplomatiques et des grandes organisations internationales",
           "size": 1127
         },
         {
-          "name": "Micro pratique [texte imprim\u00e9] : le magazine de la micro informatique \u00e0 la maison",
+          "name": "Micro pratique [texte imprimé] : le magazine de la micro informatique à la maison",
           "size": 966
         },
         {
-          "name": "L'Estampille, L'Objet d'art [texte imprim\u00e9]",
+          "name": "L'Estampille, L'Objet d'art [texte imprimé]",
           "size": 893
         },
         {
-          "name": "Syst\u00e8me D pratique [texte imprim\u00e9] : pour le bricolage et la maison",
+          "name": "Système D pratique [texte imprimé] : pour le bricolage et la maison",
           "size": 1191
         },
         {
-          "name": "L'\u00c9tudiant [texte imprim\u00e9] : l'information pour choisir",
+          "name": "L'étudiant [texte imprimé] : l'information pour choisir",
           "size": 1068
         },
         {
-          "name": "Challenges [texte imprim\u00e9]",
+          "name": "Challenges [texte imprimé]",
           "size": 1050
         },
         {
-          "name": "Jazz magazine - Jazzman [texte imprim\u00e9]",
+          "name": "Jazz magazine - Jazzman [texte imprimé]",
           "size": 968
         },
         {
-          "name": "Transfuge [texte imprim\u00e9] : la revue de litt\u00e9rature \u00e9trang\u00e8re",
+          "name": "Transfuge [texte imprimé] : la revue de littérature étrangère",
           "size": 862
         },
         {
-          "name": "Maison fran\u00e7aise [texte imprim\u00e9]",
+          "name": "Maison française [texte imprimé]",
           "size": 778
         },
         {
-          "name": "Premi\u00e8re [texte imprim\u00e9] : le magazine couleur du cin\u00e9ma",
+          "name": "Première [texte imprimé] : le magazine couleur du cinéma",
           "size": 765
         },
         {
-          "name": "Cerveau & psycho [texte imprim\u00e9] : le magazine de la psychologie et des neurosciences",
+          "name": "Cerveau & psycho [texte imprimé] : le magazine de la psychologie et des neurosciences",
           "size": 731
         },
         {
-          "name": "Le Matricule des anges [texte imprim\u00e9] : journal d'informations litt\u00e9raires",
+          "name": "Le Matricule des anges [texte imprimé] : journal d'informations littéraires",
           "size": 677
         },
         {
-          "name": "L'Histoire [texte imprim\u00e9]",
+          "name": "L'Histoire [texte imprimé]",
           "size": 6683
         },
         {
-          "name": "Elle d\u00e9coration [texte imprim\u00e9]",
+          "name": "Elle décoration [texte imprimé]",
           "size": 2671
         },
         {
-          "name": "Connaissance des arts [texte imprim\u00e9]",
+          "name": "Connaissance des arts [texte imprimé]",
           "size": 2647
         },
         {
-          "name": "Cuisine actuelle [texte imprim\u00e9]",
+          "name": "Cuisine actuelle [texte imprimé]",
           "size": 2616
         },
         {
-          "name": "Esprit [texte imprim\u00e9]",
+          "name": "Esprit [texte imprimé]",
           "size": 2440
         },
         {
-          "name": "Chasseur d'images [texte imprim\u00e9]",
+          "name": "Chasseur d'images [texte imprimé]",
           "size": 2431
         },
         {
-          "name": "National geographic [texte imprim\u00e9] : journal officiel de la National geographic society",
+          "name": "National geographic [texte imprimé] : journal officiel de la National geographic society",
           "size": 2215
         },
         {
-          "name": "T\u00e9l\u00e9rama [texte imprim\u00e9]",
+          "name": "Télérama [texte imprimé]",
           "size": 2190
         },
         {
-          "name": "Maison bricolage d\u00e9coration [texte imprim\u00e9]",
+          "name": "Maison bricolage décoration [texte imprimé]",
           "size": 2002
         },
         {
-          "name": "Der Spiegel [texte imprim\u00e9] : das deutsch Nachrichten-Magazin",
+          "name": "Der Spiegel [texte imprimé] : das deutsch Nachrichten-Magazin",
           "size": 1926
         },
         {
-          "name": "Avantages [texte imprim\u00e9]",
+          "name": "Avantages [texte imprimé]",
           "size": 1790
         },
         {
-          "name": "Archeologia [texte imprim\u00e9] : fouilles et d\u00e9couvertes",
+          "name": "Archeologia [texte imprimé] : fouilles et découvertes",
           "size": 1548
         },
         {
-          "name": "Terre sauvage [texte imprim\u00e9]",
+          "name": "Terre sauvage [texte imprimé]",
           "size": 1527
         },
         {
-          "name": "Top sant\u00e9 [texte imprim\u00e9]",
+          "name": "Top santé [texte imprimé]",
           "size": 1430
         },
         {
-          "name": "Art press [texte imprim\u00e9]",
+          "name": "Art press [texte imprimé]",
           "size": 1307
         },
         {
-          "name": "Classica [multim\u00e9dia multisupport]",
+          "name": "Classica [multimédia multisupport]",
           "size": 1294
         },
         {
-          "name": "Probl\u00e8mes \u00e9conomiques [texte imprim\u00e9] : s\u00e9lection de presse fran\u00e7aise et internationale",
+          "name": "Problèmes économiques [texte imprimé] : sélection de presse française et internationale",
           "size": 1250
         },
         {
-          "name": "Vibrations [texte imprim\u00e9] : le magazine de la world du jazz et du rap",
+          "name": "Vibrations [texte imprimé] : le magazine de la world du jazz et du rap",
           "size": 649
         },
         {
-          "name": "La Maison \u00e9cologique [texte imprim\u00e9] : magazine pratique de l'habitat sain et des \u00e9nergies renouvelables appliqu\u00e9es",
+          "name": "La Maison écologique [texte imprimé] : magazine pratique de l'habitat sain et des énergies renouvelables appliquées",
           "size": 681
         },
         {
-          "name": "Espresso [texte imprim\u00e9]",
+          "name": "Espresso [texte imprimé]",
           "size": 608
         },
         {
-          "name": "Elle [texte imprim\u00e9] : l'hebdomadaire de la femme : tous les mercredis",
+          "name": "Elle [texte imprimé] : l'hebdomadaire de la femme : tous les mercredis",
           "size": 14051
         },
         {
-          "name": "L'Express [texte imprim\u00e9]",
+          "name": "L'Express [texte imprimé]",
           "size": 6878
         },
         {
-          "name": "Vocable [texte imprim\u00e9] : anglais",
+          "name": "Vocable [texte imprimé] : anglais",
           "size": 5879
         },
         {
-          "name": "Le Journal de la maison [texte imprim\u00e9]",
+          "name": "Le Journal de la maison [texte imprimé]",
           "size": 4390
         },
         {
-          "name": "Femme actuelle [texte imprim\u00e9]",
+          "name": "Femme actuelle [texte imprimé]",
           "size": 4299
         },
         {
-          "name": "Capital [texte imprim\u00e9] : l'essentiel de l'\u00e9conomie",
+          "name": "Capital [texte imprimé] : l'essentiel de l'économie",
           "size": 4174
         },
         {
-          "name": "La Recherche [texte imprim\u00e9]",
+          "name": "La Recherche [texte imprimé]",
           "size": 4070
         },
         {
-          "name": "Art et d\u00e9coration [texte imprim\u00e9] : revue mensuelle d'art moderne...",
+          "name": "Art et décoration [texte imprimé] : revue mensuelle d'art moderne...",
           "size": 2743
         },
         {
-          "name": "Saveurs [texte imprim\u00e9]",
+          "name": "Saveurs [texte imprimé]",
           "size": 2689
         },
         {
-          "name": "Marie Claire id\u00e9es [texte imprim\u00e9]",
+          "name": "Marie Claire idées [texte imprimé]",
           "size": 2488
         },
         {
-          "name": "Books [texte imprim\u00e9] : l'actualit\u00e9 par les livres du monde",
+          "name": "Books [texte imprimé] : l'actualité par les livres du monde",
           "size": 2257
         },
         {
-          "name": "Pour la science [texte imprim\u00e9]",
+          "name": "Pour la science [texte imprimé]",
           "size": 2209
         },
         {
-          "name": "R\u00e9ponses photo [texte imprim\u00e9]",
+          "name": "Réponses photo [texte imprimé]",
           "size": 1961
         },
         {
-          "name": "Cahiers du cin\u00e9ma [texte imprim\u00e9]",
+          "name": "Cahiers du cinéma [texte imprimé]",
           "size": 1932
         },
         {
-          "name": "Parents [texte imprim\u00e9]",
+          "name": "Parents [texte imprimé]",
           "size": 1522
         },
         {
-          "name": "Diapason [texte imprim\u00e9] : le magazine de la musique classique",
+          "name": "Diapason [texte imprimé] : le magazine de la musique classique",
           "size": 1418
         },
         {
-          "name": "Vocable [texte imprim\u00e9] : allemand",
+          "name": "Vocable [texte imprimé] : allemand",
           "size": 1417
         },
         {
-          "name": "Pleine vie [texte imprim\u00e9] : le magazine des couleurs du temps",
+          "name": "Pleine vie [texte imprimé] : le magazine des couleurs du temps",
           "size": 1275
         },
         {
-          "name": "DBD [texte imprim\u00e9] : vous ne lirez plus jamais la bande dessin\u00e9e comme avant",
+          "name": "DBD [texte imprimé] : vous ne lirez plus jamais la bande dessinée comme avant",
           "size": 1247
         },
         {
-          "name": "Mani\u00e8re de voir [texte imprim\u00e9]",
+          "name": "Manière de voir [texte imprimé]",
           "size": 1081
         },
         {
-          "name": "L'Equipe magazine [texte imprim\u00e9]",
+          "name": "L'Equipe magazine [texte imprimé]",
           "size": 995
         },
         {
-          "name": "Terra eco [texte imprim\u00e9] : le magazine du d\u00e9veloppement durable",
+          "name": "Terra eco [texte imprimé] : le magazine du développement durable",
           "size": 985
         },
         {
-          "name": "[Maison & travaux] [texte imprim\u00e9]",
+          "name": "[Maison & travaux] [texte imprimé]",
           "size": 933
         },
         {
-          "name": "A vivre [texte imprim\u00e9] : architectures : le magazine de la maison",
+          "name": "A vivre [texte imprimé] : architectures : le magazine de la maison",
           "size": 894
         },
         {
-          "name": "Management [texte imprim\u00e9]",
+          "name": "Management [texte imprimé]",
           "size": 641
         }
       ]
     },
     {
-      "name": "Nouveaut\u00e9",
+      "name": "Nouveauté",
       "children": [
         {
-          "name": "Les neuf dragons : une enqu\u00eate de Harry Bosch : roman",
+          "name": "Les neuf dragons : une enquête de Harry Bosch : roman",
           "size": 773
         },
         {
@@ -2846,7 +2846,7 @@
           "size": 772
         },
         {
-          "name": "La tristesse du samoura\u00ef [Texte imprim\u00e9] : roman",
+          "name": "La tristesse du samouraï [Texte imprimé] : roman",
           "size": 751
         },
         {
@@ -2858,15 +2858,15 @@
           "size": 745
         },
         {
-          "name": "M\u00e9moire morte [Texte imprim\u00e9]",
+          "name": "Mémoire morte [Texte imprimé]",
           "size": 604
         },
         {
-          "name": "Le palais de minuit [Texte imprim\u00e9]",
+          "name": "Le palais de minuit [Texte imprimé]",
           "size": 688
         },
         {
-          "name": "Instinct de survie : une enqu\u00eate de l'inspecteur McKenzie",
+          "name": "Instinct de survie : une enquête de l'inspecteur McKenzie",
           "size": 677
         },
         {
@@ -2882,7 +2882,7 @@
           "size": 597
         },
         {
-          "name": "La petite fille de ses r\u00eaves",
+          "name": "La petite fille de ses rêves",
           "size": 612
         },
         {
@@ -2890,11 +2890,11 @@
           "size": 606
         },
         {
-          "name": "Le syst\u00e8me Victoria : roman",
+          "name": "Le système Victoria : roman",
           "size": 592
         },
         {
-          "name": "Double identit\u00e9 [Texte imprim\u00e9] : roman",
+          "name": "Double identité [Texte imprimé] : roman",
           "size": 570
         },
         {
@@ -2902,7 +2902,7 @@
           "size": 1207
         },
         {
-          "name": "Jusqu'\u00e0 la folie : roman",
+          "name": "Jusqu'à la folie : roman",
           "size": 776
         },
         {
@@ -2918,7 +2918,7 @@
           "size": 739
         },
         {
-          "name": "La rivi\u00e8re noire",
+          "name": "La rivière noire",
           "size": 682
         },
         {
@@ -2942,7 +2942,7 @@
           "size": 594
         },
         {
-          "name": "Le si\u00e8cle",
+          "name": "Le siècle",
           "size": 584
         },
         {
@@ -2958,11 +2958,11 @@
           "size": 820
         },
         {
-          "name": "Les lumi\u00e8res de septembre",
+          "name": "Les lumières de septembre",
           "size": 586
         },
         {
-          "name": "D\u00e9solations",
+          "name": "Désolations",
           "size": 569
         },
         {
@@ -2970,7 +2970,7 @@
           "size": 758
         },
         {
-          "name": "La maison du lys tigr\u00e9",
+          "name": "La maison du lys tigré",
           "size": 699
         },
         {
@@ -2990,7 +2990,7 @@
           "size": 631
         },
         {
-          "name": "H\u00f4tel Adlon",
+          "name": "Hôtel Adlon",
           "size": 624
         },
         {
@@ -2998,7 +2998,7 @@
           "size": 613
         },
         {
-          "name": "Le vieux qui ne voulait pas f\u00eater son anniversaire : roman",
+          "name": "Le vieux qui ne voulait pas fêter son anniversaire : roman",
           "size": 608
         },
         {
@@ -3006,11 +3006,11 @@
           "size": 606
         },
         {
-          "name": "L'\u00e9limination [Texte imprim\u00e9]",
+          "name": "L'élimination [Texte imprimé]",
           "size": 606
         },
         {
-          "name": "L'enqu\u00eate russe : roman",
+          "name": "L'enquête russe : roman",
           "size": 595
         },
         {
@@ -3034,7 +3034,7 @@
           "size": 817
         },
         {
-          "name": "L'arm\u00e9e furieuse",
+          "name": "L'armée furieuse",
           "size": 922
         },
         {
@@ -3042,19 +3042,19 @@
           "size": 856
         },
         {
-          "name": "Si c'\u00e9tait \u00e0 refaire : roman",
+          "name": "Si c'était à refaire : roman",
           "size": 824
         },
         {
-          "name": "Dans les for\u00eats de Sib\u00e9rie : f\u00e9vrier-juillet 2010",
+          "name": "Dans les forêts de Sibérie : février-juillet 2010",
           "size": 726
         },
         {
-          "name": "Les solidarit\u00e9s myst\u00e9rieuses",
+          "name": "Les solidarités mystérieuses",
           "size": 711
         },
         {
-          "name": "Rien ne s'oppose \u00e0 la nuit : roman",
+          "name": "Rien ne s'oppose à la nuit : roman",
           "size": 1208
         },
         {
@@ -3062,23 +3062,23 @@
           "size": 585
         },
         {
-          "name": "La mort s'invite \u00e0 Pemberley : roman",
+          "name": "La mort s'invite à Pemberley : roman",
           "size": 585
         },
         {
-          "name": "Theodore Boone : l'enl\u00e8vement",
+          "name": "Theodore Boone : l'enlèvement",
           "size": 577
         },
         {
-          "name": "Les dix enfants que madame Ming n'a jamais eus [Texte imprim\u00e9]",
+          "name": "Les dix enfants que madame Ming n'a jamais eus [Texte imprimé]",
           "size": 764
         },
         {
-          "name": "M\u00e9tronome [Texte imprim\u00e9] : l'histoire de France au rythme du m\u00e9tro parisien",
+          "name": "Métronome [Texte imprimé] : l'histoire de France au rythme du métro parisien",
           "size": 708
         },
         {
-          "name": "Cr\u00e9puscule",
+          "name": "Crépuscule",
           "size": 628
         },
         {
@@ -3086,7 +3086,7 @@
           "size": 613
         },
         {
-          "name": "Avenue des g\u00e9ants",
+          "name": "Avenue des géants",
           "size": 591
         },
         {
@@ -3094,7 +3094,7 @@
           "size": 1014
         },
         {
-          "name": "Tuer le p\u00e8re : roman",
+          "name": "Tuer le père : roman",
           "size": 920
         },
         {
@@ -3112,14 +3112,14 @@
       ]
     },
     {
-      "name": "Bande dessin\u00e9e ado",
+      "name": "Bande dessinée ado",
       "children": [
         {
           "name": "Fairy Tail. 6",
           "size": 763
         },
         {
-          "name": "Fairy Tail. 2 [Texte imprim\u00e9]",
+          "name": "Fairy Tail. 2 [Texte imprimé]",
           "size": 748
         },
         {
@@ -3127,27 +3127,27 @@
           "size": 740
         },
         {
-          "name": "Tout est bon dans le gar\u00e7on ! [Texte imprim\u00e9]",
+          "name": "Tout est bon dans le garçon ! [Texte imprimé]",
           "size": 717
         },
         {
-          "name": "Naruto. 4 [Texte imprim\u00e9]",
+          "name": "Naruto. 4 [Texte imprimé]",
           "size": 703
         },
         {
-          "name": "Naruto. 24 [Texte imprim\u00e9]",
+          "name": "Naruto. 24 [Texte imprimé]",
           "size": 703
         },
         {
-          "name": "Naruto. 32 [Texte imprim\u00e9]",
+          "name": "Naruto. 32 [Texte imprimé]",
           "size": 674
         },
         {
-          "name": "Naruto. 36 [Texte imprim\u00e9]",
+          "name": "Naruto. 36 [Texte imprimé]",
           "size": 674
         },
         {
-          "name": "Le vieux schnock [Texte imprim\u00e9]",
+          "name": "Le vieux schnock [Texte imprimé]",
           "size": 670
         },
         {
@@ -3155,43 +3155,43 @@
           "size": 669
         },
         {
-          "name": "Gear [Texte imprim\u00e9]",
+          "name": "Gear [Texte imprimé]",
           "size": 665
         },
         {
-          "name": "Gaston. 4 [Texte imprim\u00e9]",
+          "name": "Gaston. 4 [Texte imprimé]",
           "size": 652
         },
         {
-          "name": "Le pire brigand de tout East-Blue [Texte imprim\u00e9]",
+          "name": "Le pire brigand de tout East-Blue [Texte imprimé]",
           "size": 642
         },
         {
-          "name": "Gaston. 3 [Texte imprim\u00e9]",
+          "name": "Gaston. 3 [Texte imprimé]",
           "size": 595
         },
         {
-          "name": "Mes amis \u00e0 poils",
+          "name": "Mes amis à poils",
           "size": 593
         },
         {
-          "name": "Gaston. 15 [Texte imprim\u00e9]",
+          "name": "Gaston. 15 [Texte imprimé]",
           "size": 581
         },
         {
-          "name": "L'homme qui valait cent millions [Texte imprim\u00e9]",
+          "name": "L'homme qui valait cent millions [Texte imprimé]",
           "size": 603
         },
         {
-          "name": "Ace entre en sc\u00e8ne [Texte imprim\u00e9]",
+          "name": "Ace entre en scène [Texte imprimé]",
           "size": 600
         },
         {
-          "name": "Naruto. 15 [Texte imprim\u00e9]",
+          "name": "Naruto. 15 [Texte imprimé]",
           "size": 563
         },
         {
-          "name": "Naruto. 13 [Texte imprim\u00e9]",
+          "name": "Naruto. 13 [Texte imprimé]",
           "size": 689
         },
         {
@@ -3199,51 +3199,51 @@
           "size": 775
         },
         {
-          "name": "Tu d\u00e9passes ! [Texte imprim\u00e9]",
+          "name": "Tu dépasses ! [Texte imprimé]",
           "size": 748
         },
         {
-          "name": "Rythme scolaire [Texte imprim\u00e9]",
+          "name": "Rythme scolaire [Texte imprimé]",
           "size": 729
         },
         {
-          "name": "Combien ? [Texte imprim\u00e9]",
+          "name": "Combien ? [Texte imprimé]",
           "size": 727
         },
         {
-          "name": "Naruto. 19 [Texte imprim\u00e9]",
+          "name": "Naruto. 19 [Texte imprimé]",
           "size": 716
         },
         {
-          "name": "Gaston. 10 [Texte imprim\u00e9]",
+          "name": "Gaston. 10 [Texte imprimé]",
           "size": 712
         },
         {
-          "name": "La l\u00e9gende est en marche [Texte imprim\u00e9]",
+          "name": "La légende est en marche [Texte imprimé]",
           "size": 711
         },
         {
-          "name": "Sois forte [Texte imprim\u00e9]",
+          "name": "Sois forte [Texte imprimé]",
           "size": 699
         },
         {
-          "name": "Aux prises avec baggy et ses hommes ! [Texte imprim\u00e9]",
+          "name": "Aux prises avec baggy et ses hommes ! [Texte imprimé]",
           "size": 651
         },
         {
-          "name": "Naruto. 18 [Texte imprim\u00e9]",
+          "name": "Naruto. 18 [Texte imprimé]",
           "size": 643
         },
         {
-          "name": "Tempete sur Saint-Roch [Texte imprim\u00e9]",
+          "name": "Tempete sur Saint-Roch [Texte imprimé]",
           "size": 638
         },
         {
-          "name": "Naruto. 30 [Texte imprim\u00e9]",
+          "name": "Naruto. 30 [Texte imprimé]",
           "size": 635
         },
         {
-          "name": "Gaston. 14 [Texte imprim\u00e9]",
+          "name": "Gaston. 14 [Texte imprimé]",
           "size": 635
         },
         {
@@ -3251,51 +3251,51 @@
           "size": 615
         },
         {
-          "name": "Gaston. 8 [Texte imprim\u00e9]",
+          "name": "Gaston. 8 [Texte imprimé]",
           "size": 599
         },
         {
-          "name": "Naruto. 21 [Texte imprim\u00e9]",
+          "name": "Naruto. 21 [Texte imprimé]",
           "size": 590
         },
         {
-          "name": "Les reves [Texte imprim\u00e9]",
+          "name": "Les reves [Texte imprimé]",
           "size": 585
         },
         {
-          "name": "Gaston. 6 [Texte imprim\u00e9]",
+          "name": "Gaston. 6 [Texte imprimé]",
           "size": 583
         },
         {
-          "name": "Le miracle de la vie [Texte imprim\u00e9]",
+          "name": "Le miracle de la vie [Texte imprimé]",
           "size": 1381
         },
         {
-          "name": "Fenetre sur cours [Texte imprim\u00e9]",
+          "name": "Fenetre sur cours [Texte imprimé]",
           "size": 913
         },
         {
-          "name": "Pour qui sonne le glas [Texte imprim\u00e9]",
+          "name": "Pour qui sonne le glas [Texte imprimé]",
           "size": 812
         },
         {
-          "name": "Naruto. 8 [Texte imprim\u00e9]",
+          "name": "Naruto. 8 [Texte imprimé]",
           "size": 718
         },
         {
-          "name": "Love song [Texte imprim\u00e9]",
+          "name": "Love song [Texte imprimé]",
           "size": 573
         },
         {
-          "name": "Faites comme chez vous [Texte imprim\u00e9]",
+          "name": "Faites comme chez vous [Texte imprimé]",
           "size": 750
         },
         {
-          "name": "Ma premi\u00e8re fois ! [Texte imprim\u00e9]",
+          "name": "Ma première fois ! [Texte imprimé]",
           "size": 731
         },
         {
-          "name": "Naruto. 2 [Texte imprim\u00e9]",
+          "name": "Naruto. 2 [Texte imprimé]",
           "size": 703
         },
         {
@@ -3303,35 +3303,35 @@
           "size": 685
         },
         {
-          "name": "C'est bon l'amour ! [Texte imprim\u00e9]",
+          "name": "C'est bon l'amour ! [Texte imprimé]",
           "size": 677
         },
         {
-          "name": "Naruto. 12 [Texte imprim\u00e9]",
+          "name": "Naruto. 12 [Texte imprimé]",
           "size": 658
         },
         {
-          "name": "Naruto. 33 [Texte imprim\u00e9]",
+          "name": "Naruto. 33 [Texte imprimé]",
           "size": 655
         },
         {
-          "name": "Naruto. 25 [Texte imprim\u00e9]",
+          "name": "Naruto. 25 [Texte imprimé]",
           "size": 649
         },
         {
-          "name": "Naruto. 35 [Texte imprim\u00e9]",
+          "name": "Naruto. 35 [Texte imprimé]",
           "size": 618
         },
         {
-          "name": "Gaston. 11 [Texte imprim\u00e9]",
+          "name": "Gaston. 11 [Texte imprimé]",
           "size": 613
         },
         {
-          "name": "Naruto. 22 [Texte imprim\u00e9]",
+          "name": "Naruto. 22 [Texte imprimé]",
           "size": 611
         },
         {
-          "name": "Naruto. 31 [Texte imprim\u00e9]",
+          "name": "Naruto. 31 [Texte imprimé]",
           "size": 596
         },
         {
@@ -3339,23 +3339,23 @@
           "size": 1843
         },
         {
-          "name": "Mortebouse [Texte imprim\u00e9]",
+          "name": "Mortebouse [Texte imprimé]",
           "size": 1574
         },
         {
-          "name": "Nadia se marie [Texte imprim\u00e9]",
+          "name": "Nadia se marie [Texte imprimé]",
           "size": 1442
         },
         {
-          "name": "Le sens de la vie [Texte imprim\u00e9]",
+          "name": "Le sens de la vie [Texte imprimé]",
           "size": 1409
         },
         {
-          "name": "Mes meilleurs copains [Texte imprim\u00e9]",
+          "name": "Mes meilleurs copains [Texte imprimé]",
           "size": 1291
         },
         {
-          "name": "L'amour, c'est p\u00f4 propre... [Texte imprim\u00e9]",
+          "name": "L'amour, c'est pô propre... [Texte imprimé]",
           "size": 1187
         },
         {
@@ -3363,7 +3363,7 @@
           "size": 1002
         },
         {
-          "name": "Fairy Tail. 1 [Texte imprim\u00e9]",
+          "name": "Fairy Tail. 1 [Texte imprimé]",
           "size": 857
         },
         {
@@ -3371,15 +3371,15 @@
           "size": 1089
         },
         {
-          "name": "Dieu, le sexe et les bretelles [Texte imprim\u00e9]",
+          "name": "Dieu, le sexe et les bretelles [Texte imprimé]",
           "size": 1056
         },
         {
-          "name": "J'ai gagn\u00e9 !",
+          "name": "J'ai gagné !",
           "size": 992
         },
         {
-          "name": "Le cimeti\u00e8re des autobus [Texte imprim\u00e9]",
+          "name": "Le cimetière des autobus [Texte imprimé]",
           "size": 984
         },
         {
@@ -3387,19 +3387,19 @@
           "size": 935
         },
         {
-          "name": "Je veux que tu m'aimes ! [Texte imprim\u00e9]",
+          "name": "Je veux que tu m'aimes ! [Texte imprimé]",
           "size": 918
         },
         {
-          "name": "Les liens de l'amiti\u00e9 [Texte imprim\u00e9]",
+          "name": "Les liens de l'amitié [Texte imprimé]",
           "size": 868
         },
         {
-          "name": "Naruto. 6 [Texte imprim\u00e9]",
+          "name": "Naruto. 6 [Texte imprimé]",
           "size": 795
         },
         {
-          "name": "J'irai o\u00f9 tu iras [Texte imprim\u00e9]",
+          "name": "J'irai où tu iras [Texte imprimé]",
           "size": 745
         },
         {
@@ -3407,27 +3407,27 @@
           "size": 742
         },
         {
-          "name": "Pas de souci ! [Texte imprim\u00e9]",
+          "name": "Pas de souci ! [Texte imprimé]",
           "size": 732
         },
         {
-          "name": "Naruto. 27 [Texte imprim\u00e9]",
+          "name": "Naruto. 27 [Texte imprimé]",
           "size": 701
         },
         {
-          "name": "Naruto. 5 [Texte imprim\u00e9]",
+          "name": "Naruto. 5 [Texte imprimé]",
           "size": 694
         },
         {
-          "name": "Naruto. 3 [Texte imprim\u00e9]",
+          "name": "Naruto. 3 [Texte imprimé]",
           "size": 692
         },
         {
-          "name": "Les cerisiers de Hiluluk [Texte imprim\u00e9]",
+          "name": "Les cerisiers de Hiluluk [Texte imprimé]",
           "size": 685
         },
         {
-          "name": "La grande promesse [Texte imprim\u00e9]",
+          "name": "La grande promesse [Texte imprimé]",
           "size": 684
         },
         {
@@ -3435,79 +3435,79 @@
           "size": 680
         },
         {
-          "name": "Perp\u00e9tuation [Texte imprim\u00e9]",
+          "name": "Perpétuation [Texte imprimé]",
           "size": 672
         },
         {
-          "name": "Pi\u00e9t\u00e9 filiale [Texte imprim\u00e9]",
+          "name": "Piété filiale [Texte imprimé]",
           "size": 671
         },
         {
-          "name": "Naruto. 1 [Texte imprim\u00e9]",
+          "name": "Naruto. 1 [Texte imprimé]",
           "size": 669
         },
         {
-          "name": "La loi du pr\u00e9au [Texte imprim\u00e9]",
+          "name": "La loi du préau [Texte imprimé]",
           "size": 1348
         },
         {
-          "name": "Titeuf et le derri\u00e8re des choses [Texte imprim\u00e9]",
+          "name": "Titeuf et le derrière des choses [Texte imprimé]",
           "size": 1254
         },
         {
-          "name": "Pour qui tu te prends ? [Texte imprim\u00e9]",
+          "name": "Pour qui tu te prends ? [Texte imprimé]",
           "size": 913
         },
         {
-          "name": "J'irai voir Venise [Texte imprim\u00e9]",
+          "name": "J'irai voir Venise [Texte imprimé]",
           "size": 853
         },
         {
-          "name": "Gaston. 2 [Texte imprim\u00e9]",
+          "name": "Gaston. 2 [Texte imprimé]",
           "size": 693
         },
         {
-          "name": "Naruto. 20 [Texte imprim\u00e9]",
+          "name": "Naruto. 20 [Texte imprimé]",
           "size": 656
         },
         {
-          "name": "Je savais que je te rencontrerais [Texte imprim\u00e9]",
+          "name": "Je savais que je te rencontrerais [Texte imprimé]",
           "size": 652
         },
         {
-          "name": "Bataille d\u00e9cisive \u00e0 Alubarna [Texte imprim\u00e9]",
+          "name": "Bataille décisive à Alubarna [Texte imprimé]",
           "size": 648
         },
         {
-          "name": "Gaston. 9 [Texte imprim\u00e9]",
+          "name": "Gaston. 9 [Texte imprimé]",
           "size": 643
         },
         {
-          "name": "Gaston. 5 [Texte imprim\u00e9]",
+          "name": "Gaston. 5 [Texte imprimé]",
           "size": 597
         },
         {
-          "name": "Utopie [Texte imprim\u00e9]",
+          "name": "Utopie [Texte imprimé]",
           "size": 588
         },
         {
-          "name": "Fruits basket. Volume 1 [Texte imprim\u00e9] : une corbeille de fruits",
+          "name": "Fruits basket. Volume 1 [Texte imprimé] : une corbeille de fruits",
           "size": 576
         },
         {
-          "name": "Naruto. 34 [Texte imprim\u00e9]",
+          "name": "Naruto. 34 [Texte imprimé]",
           "size": 575
         },
         {
-          "name": "Naruto. 28 [Texte imprim\u00e9]",
+          "name": "Naruto. 28 [Texte imprimé]",
           "size": 575
         },
         {
-          "name": "La l\u00e9gende du h\u00e9ros [Texte imprim\u00e9]",
+          "name": "La légende du héros [Texte imprimé]",
           "size": 572
         },
         {
-          "name": "Naruto. 29 [Texte imprim\u00e9]",
+          "name": "Naruto. 29 [Texte imprimé]",
           "size": 571
         },
         {
@@ -3515,11 +3515,11 @@
           "size": 739
         },
         {
-          "name": "Gaston. 1 [Texte imprim\u00e9]",
+          "name": "Gaston. 1 [Texte imprimé]",
           "size": 659
         },
         {
-          "name": "R\u00e9bellion [Texte imprim\u00e9]",
+          "name": "Rébellion [Texte imprimé]",
           "size": 608
         },
         {
@@ -3531,39 +3531,39 @@
           "size": 936
         },
         {
-          "name": "Un chemin en pente raide [Texte imprim\u00e9]",
+          "name": "Un chemin en pente raide [Texte imprimé]",
           "size": 665
         },
         {
-          "name": "Naruto. 17 [Texte imprim\u00e9]",
+          "name": "Naruto. 17 [Texte imprimé]",
           "size": 642
         },
         {
-          "name": "Gaston. 13 [Texte imprim\u00e9]",
+          "name": "Gaston. 13 [Texte imprimé]",
           "size": 641
         },
         {
-          "name": "Naruto. 9 [Texte imprim\u00e9]",
+          "name": "Naruto. 9 [Texte imprimé]",
           "size": 631
         },
         {
-          "name": "Gaston. 7 [Texte imprim\u00e9]",
+          "name": "Gaston. 7 [Texte imprimé]",
           "size": 620
         },
         {
-          "name": "L'aventure de Vivi [Texte imprim\u00e9]",
+          "name": "L'aventure de Vivi [Texte imprimé]",
           "size": 618
         },
         {
-          "name": "Naruto. 7 [Texte imprim\u00e9]",
+          "name": "Naruto. 7 [Texte imprimé]",
           "size": 582
         },
         {
-          "name": "Davy back fight !! [Texte imprim\u00e9]",
+          "name": "Davy back fight !! [Texte imprimé]",
           "size": 580
         },
         {
-          "name": "A l'aube d'une grande aventure [Texte imprim\u00e9]",
+          "name": "A l'aube d'une grande aventure [Texte imprimé]",
           "size": 811
         }
       ]
@@ -3576,27 +3576,27 @@
           "size": 605
         },
         {
-          "name": "Comptines des animaux de la ferme [Multim\u00e9dia multisupport]",
+          "name": "Comptines des animaux de la ferme [Multimédia multisupport]",
           "size": 604
         },
         {
-          "name": "Mon imagier des amusettes . 2 [Multim\u00e9dia multisupport] : 16 chansons \u00e0 gestes pour les tout-petits",
+          "name": "Mon imagier des amusettes . 2 [Multimédia multisupport] : 16 chansons à gestes pour les tout-petits",
           "size": 595
         },
         {
-          "name": "Max et Lili se posent des questions sur Dieu [Texte imprim\u00e9]",
+          "name": "Max et Lili se posent des questions sur Dieu [Texte imprimé]",
           "size": 1823
         },
         {
-          "name": "Le doudou de Coco [Multim\u00e9dia multisupport] : une histoire mise en musique",
+          "name": "Le doudou de Coco [Multimédia multisupport] : une histoire mise en musique",
           "size": 974
         },
         {
-          "name": "Les jeux chant\u00e9s des tout-petits [Multim\u00e9dia multisupport] : 0-3 ans",
+          "name": "Les jeux chantés des tout-petits [Multimédia multisupport] : 0-3 ans",
           "size": 699
         },
         {
-          "name": "Coco et le b\u00e9b\u00e9 [Texte imprim\u00e9]",
+          "name": "Coco et le bébé [Texte imprimé]",
           "size": 894
         },
         {
@@ -3609,31 +3609,31 @@
       "name": "Livre sonore jeunesse",
       "children": [
         {
-          "name": "Comptines pour chanter la ferme [Multim\u00e9dia multisupport]",
+          "name": "Comptines pour chanter la ferme [Multimédia multisupport]",
           "size": 570
         },
         {
-          "name": "Poule rousse [Multim\u00e9dia multisupport]",
+          "name": "Poule rousse [Multimédia multisupport]",
           "size": 598
         },
         {
-          "name": "Oh hisse petit escargot ! [Multim\u00e9dia multisupport]",
+          "name": "Oh hisse petit escargot ! [Multimédia multisupport]",
           "size": 561
         },
         {
-          "name": "Roule galette... [Texte imprim\u00e9]",
+          "name": "Roule galette... [Texte imprimé]",
           "size": 605
         },
         {
-          "name": "Coco et les pompiers [Texte imprim\u00e9]",
+          "name": "Coco et les pompiers [Texte imprimé]",
           "size": 798
         },
         {
-          "name": "L'anniversaire de Coco [Multim\u00e9dia multisupport]",
+          "name": "L'anniversaire de Coco [Multimédia multisupport]",
           "size": 834
         },
         {
-          "name": "Le pyjama de Coco [Multim\u00e9dia multisupport]",
+          "name": "Le pyjama de Coco [Multimédia multisupport]",
           "size": 675
         }
       ]
@@ -3646,7 +3646,7 @@
           "size": 647
         },
         {
-          "name": "Enfant magazine [texte imprim\u00e9]",
+          "name": "Enfant magazine [texte imprimé]",
           "size": 1485
         }
       ]
@@ -3663,11 +3663,11 @@
           "size": 579
         },
         {
-          "name": "L'\u00e9trange voyage de monsieur Daldry : roman",
+          "name": "L'étrange voyage de monsieur Daldry : roman",
           "size": 577
         },
         {
-          "name": "Le grand Coeur [Texte imprim\u00e9] : roman",
+          "name": "Le grand Coeur [Texte imprimé] : roman",
           "size": 573
         },
         {
@@ -3683,11 +3683,11 @@
           "size": 896
         },
         {
-          "name": "Un p\u00e8re id\u00e9al",
+          "name": "Un père idéal",
           "size": 728
         },
         {
-          "name": "Cinqui\u00e8me chronique du r\u00e8gne de Nicolas Ier",
+          "name": "Cinquième chronique du règne de Nicolas Ier",
           "size": 570
         },
         {
@@ -3699,23 +3699,23 @@
           "size": 657
         },
         {
-          "name": "Cet instant-l\u00e0",
+          "name": "Cet instant-là",
           "size": 978
         },
         {
-          "name": "Rem\u00e8de mortel",
+          "name": "Remède mortel",
           "size": 933
         },
         {
-          "name": "Un homme de temp\u00e9rament : roman",
+          "name": "Un homme de tempérament : roman",
           "size": 717
         },
         {
-          "name": "Une ann\u00e9e studieuse",
+          "name": "Une année studieuse",
           "size": 924
         },
         {
-          "name": "La rose \u00e9carlate. 7. Tu seras toujours \u00e0 moi",
+          "name": "La rose écarlate. 7. Tu seras toujours à moi",
           "size": 853
         },
         {
@@ -3731,7 +3731,7 @@
           "size": 630
         },
         {
-          "name": "Les L\u00e9gendaires. 14. L'h\u00e9ritage du mal",
+          "name": "Les Légendaires. 14. L'héritage du mal",
           "size": 1124
         },
         {
@@ -3752,95 +3752,95 @@
       "name": "Revue jeunesse",
       "children": [
         {
-          "name": "Images doc [texte imprim\u00e9] : un tr\u00e9sor d'images pour tout savoir",
+          "name": "Images doc [texte imprimé] : un trésor d'images pour tout savoir",
           "size": 4538
         },
         {
-          "name": "Wakou [texte imprim\u00e9]",
+          "name": "Wakou [texte imprimé]",
           "size": 4200
         },
         {
-          "name": "J'apprends \u00e0 lire [texte imprim\u00e9]",
+          "name": "J'apprends à lire [texte imprimé]",
           "size": 4095
         },
         {
-          "name": "Wapiti [texte imprim\u00e9] : un oeil fut\u00e9 sur la nature",
+          "name": "Wapiti [texte imprimé] : un oeil futé sur la nature",
           "size": 3642
         },
         {
-          "name": "Youpi [texte imprim\u00e9] : le journal des grands curieux de 3 \u00e0 7 ans",
+          "name": "Youpi [texte imprimé] : le journal des grands curieux de 3 à 7 ans",
           "size": 3517
         },
         {
-          "name": "Tralalire [texte imprim\u00e9] : bienvenue dans le monde des histoires : 2-5 ans",
+          "name": "Tralalire [texte imprimé] : bienvenue dans le monde des histoires : 2-5 ans",
           "size": 2895
         },
         {
-          "name": "D lire [texte imprim\u00e9] : 9-13 ans",
+          "name": "D lire [texte imprimé] : 9-13 ans",
           "size": 2757
         },
         {
-          "name": "Mille et une histoires [texte imprim\u00e9] : 3-7 ans",
+          "name": "Mille et une histoires [texte imprimé] : 3-7 ans",
           "size": 2376
         },
         {
-          "name": "I love english junior [multim\u00e9dia multisupport] : sp\u00e9cial d\u00e9butants",
+          "name": "I love english junior [multimédia multisupport] : spécial débutants",
           "size": 1598
         },
         {
-          "name": "Toupie [texte imprim\u00e9]",
+          "name": "Toupie [texte imprimé]",
           "size": 1528
         },
         {
-          "name": "Dada [texte imprim\u00e9] : premi\u00e8re revue d'art pour enfants de 6 \u00e0 106 ans",
+          "name": "Dada [texte imprimé] : première revue d'art pour enfants de 6 à 106 ans",
           "size": 731
         },
         {
-          "name": "Papoum [texte imprim\u00e9] : le journal des b\u00e9b\u00e9s : le premier journal en forme de maison pour tous les b\u00e9b\u00e9s",
+          "name": "Papoum [texte imprimé] : le journal des bébés : le premier journal en forme de maison pour tous les bébés",
           "size": 677
         },
         {
-          "name": "Julie [texte imprim\u00e9] : vive les filles : de 8 \u00e0 12 ans",
+          "name": "Julie [texte imprimé] : vive les filles : de 8 à 12 ans",
           "size": 9130
         },
         {
-          "name": "Popi [texte imprim\u00e9] : d\u00e8s 1 an",
+          "name": "Popi [texte imprimé] : dès 1 an",
           "size": 9065
         },
         {
-          "name": "Pomme d'api [texte imprim\u00e9]",
+          "name": "Pomme d'api [texte imprimé]",
           "size": 7623
         },
         {
-          "name": "Les P'tites sorci\u00e8res [texte imprim\u00e9]",
+          "name": "Les P'tites sorcières [texte imprimé]",
           "size": 6245
         },
         {
-          "name": "Je lis des histoires vraies [texte imprim\u00e9]",
+          "name": "Je lis des histoires vraies [texte imprimé]",
           "size": 6205
         },
         {
-          "name": "Toboggan [texte imprim\u00e9]",
+          "name": "Toboggan [texte imprimé]",
           "size": 3679
         },
         {
-          "name": "Science & vie d\u00e9couvertes [texte imprim\u00e9]",
+          "name": "Science & vie découvertes [texte imprimé]",
           "size": 2381
         },
         {
-          "name": "Mobiclic [ressource \u00e9lectronique] : le magazine multim\u00e9dia des 7/12 ans",
+          "name": "Mobiclic [ressource électronique] : le magazine multimédia des 7/12 ans",
           "size": 2283
         },
         {
-          "name": "Le Petit L\u00e9onard [texte imprim\u00e9] : le magazine des plus de 7 ans",
+          "name": "Le Petit Léonard [texte imprimé] : le magazine des plus de 7 ans",
           "size": 2057
         },
         {
-          "name": "Tch\u00f4 ! le megazine [texte imprim\u00e9]",
+          "name": "Tchô ! le megazine [texte imprimé]",
           "size": 1779
         },
         {
-          "name": "Abricot [texte imprim\u00e9]",
+          "name": "Abricot [texte imprimé]",
           "size": 1404
         },
         {
@@ -3848,39 +3848,39 @@
           "size": 906
         },
         {
-          "name": "J'AIME LIRE 2007 [Texte imprim\u00e9]",
+          "name": "J'AIME LIRE 2007 [Texte imprimé]",
           "size": 754
         },
         {
-          "name": "Le Journal de Mickey [texte imprim\u00e9]",
+          "name": "Le Journal de Mickey [texte imprimé]",
           "size": 34151
         },
         {
-          "name": "Astrapi [texte imprim\u00e9]",
+          "name": "Astrapi [texte imprimé]",
           "size": 18008
         },
         {
-          "name": "Spirou [texte imprim\u00e9] : champion de la bonne humeur",
+          "name": "Spirou [texte imprimé] : champion de la bonne humeur",
           "size": 15939
         },
         {
-          "name": "J'aime lire [texte imprim\u00e9]",
+          "name": "J'aime lire [texte imprimé]",
           "size": 15165
         },
         {
-          "name": "Mes premiers J'aime lire [texte imprim\u00e9] : lecteurs d\u00e9butants, grande section maternelle, CP et CE1",
+          "name": "Mes premiers J'aime lire [texte imprimé] : lecteurs débutants, grande section maternelle, CP et CE1",
           "size": 4018
         },
         {
-          "name": "Toboclic [ressource \u00e9lectronique] : [le magazine mensuel multim\u00e9dia pour les 4-7 ans]",
+          "name": "Toboclic [ressource électronique] : [le magazine mensuel multimédia pour les 4-7 ans]",
           "size": 2509
         },
         {
-          "name": "Moi je lis : j'enqu\u00eate, je comprends [texte imprim\u00e9]",
+          "name": "Moi je lis : j'enquête, je comprends [texte imprimé]",
           "size": 2296
         },
         {
-          "name": "Ark\u00e9o junior [texte imprim\u00e9]",
+          "name": "Arkéo junior [texte imprimé]",
           "size": 1661
         },
         {
@@ -3888,35 +3888,35 @@
           "size": 1190
         },
         {
-          "name": "30 millions d'amis [texte imprim\u00e9] ; [dir. publ. Philippe Simon]",
+          "name": "30 millions d'amis [texte imprimé] ; [dir. publ. Philippe Simon]",
           "size": 1168
         },
         {
-          "name": "Kid paddle magazine [texte imprim\u00e9]",
+          "name": "Kid paddle magazine [texte imprimé]",
           "size": 791
         },
         {
-          "name": "Cheval magazine [texte imprim\u00e9]",
+          "name": "Cheval magazine [texte imprimé]",
           "size": 749
         },
         {
-          "name": "Je bouquine [texte imprim\u00e9]",
+          "name": "Je bouquine [texte imprimé]",
           "size": 2992
         },
         {
-          "name": "WITCH mag [texte imprim\u00e9]",
+          "name": "WITCH mag [texte imprimé]",
           "size": 2512
         },
         {
-          "name": "J'AIME LIRE 2009 [Texte imprim\u00e9]",
+          "name": "J'AIME LIRE 2009 [Texte imprimé]",
           "size": 1213
         },
         {
-          "name": "Petites mains [texte imprim\u00e9] : le magazine d'\u00e9veil cr\u00e9atif \u00e0 partir de 3 ans",
+          "name": "Petites mains [texte imprimé] : le magazine d'éveil créatif à partir de 3 ans",
           "size": 744
         },
         {
-          "name": "Consoles + [texte imprim\u00e9]",
+          "name": "Consoles + [texte imprimé]",
           "size": 705
         },
         {
@@ -3924,19 +3924,19 @@
           "size": 616
         },
         {
-          "name": "Gu shi hui = ??? [Texte imprim\u00e9]",
+          "name": "Gu shi hui = ??? [Texte imprimé]",
           "size": 592
         },
         {
-          "name": "Les Belles histoires [texte imprim\u00e9]",
+          "name": "Les Belles histoires [texte imprimé]",
           "size": 9155
         },
         {
-          "name": "Picsou magazine [texte imprim\u00e9]",
+          "name": "Picsou magazine [texte imprimé]",
           "size": 3020
         },
         {
-          "name": "Je lis d\u00e9j\u00e0 [texte imprim\u00e9]",
+          "name": "Je lis déjà [texte imprimé]",
           "size": 2172
         },
         {
@@ -3944,27 +3944,27 @@
           "size": 2069
         },
         {
-          "name": "Picoti [texte imprim\u00e9] : pour les b\u00e9b\u00e9s poussins : \u00e0 partir de 9 mois",
+          "name": "Picoti [texte imprimé] : pour les bébés poussins : à partir de 9 mois",
           "size": 2064
         },
         {
-          "name": "Cheval star [texte imprim\u00e9] ; [dir. publ. Bernard Chehu]",
+          "name": "Cheval star [texte imprimé] ; [dir. publ. Bernard Chehu]",
           "size": 1599
         },
         {
-          "name": "Shan hai jing = ??? [Texte imprim\u00e9] : Ren sheng ji shi = ???? : gu shi qi wen = ????",
+          "name": "Shan hai jing = ??? [Texte imprimé] : Ren sheng ji shi = ???? : gu shi qi wen = ????",
           "size": 1189
         },
         {
-          "name": "Cosinus [texte imprim\u00e9] : \u00e0 partir du coll\u00e8ge",
+          "name": "Cosinus [texte imprimé] : à partir du collège",
           "size": 1160
         },
         {
-          "name": "Les P'tites princesses [texte imprim\u00e9] : [le premier magazine des petites filles d'aujourd'hui qui aiment les histoires, les activit\u00e9s et...s'amuser!]",
+          "name": "Les P'tites princesses [texte imprimé] : [le premier magazine des petites filles d'aujourd'hui qui aiment les histoires, les activités et...s'amuser!]",
           "size": 831
         },
         {
-          "name": "J'AIME LIRE 2008 [Texte imprim\u00e9]",
+          "name": "J'AIME LIRE 2008 [Texte imprimé]",
           "size": 830
         },
         {
@@ -3974,14 +3974,14 @@
       ]
     },
     {
-      "name": "DVD < 13 ans",
+      "name": "DVD moins 13 ans",
       "children": [
         {
-          "name": "Les aventures des Barbapapa [Images anim\u00e9es]",
+          "name": "Les aventures des Barbapapa [Images animées]",
           "size": 598
         },
         {
-          "name": "Ratatouille [Images anim\u00e9es]",
+          "name": "Ratatouille [Images animées]",
           "size": 567
         }
       ]
@@ -3990,39 +3990,39 @@
       "name": "Revue ado",
       "children": [
         {
-          "name": "Okapi [texte imprim\u00e9]",
+          "name": "Okapi [texte imprimé]",
           "size": 14399
         },
         {
-          "name": "Science & vie junior [texte imprim\u00e9]",
+          "name": "Science & vie junior [texte imprimé]",
           "size": 7309
         },
         {
-          "name": "Le Monde des ados [texte imprim\u00e9]",
+          "name": "Le Monde des ados [texte imprimé]",
           "size": 3760
         },
         {
-          "name": "Virgule [texte imprim\u00e9]",
+          "name": "Virgule [texte imprimé]",
           "size": 2246
         },
         {
-          "name": "Onze mondial [texte imprim\u00e9]",
+          "name": "Onze mondial [texte imprimé]",
           "size": 1228
         },
         {
-          "name": "Geo ado [texte imprim\u00e9] : le plaisir d'explorer",
+          "name": "Geo ado [texte imprimé] : le plaisir d'explorer",
           "size": 3265
         },
         {
-          "name": "Phosphore [texte imprim\u00e9]",
+          "name": "Phosphore [texte imprimé]",
           "size": 3150
         },
         {
-          "name": "I love english [texte imprim\u00e9]",
+          "name": "I love english [texte imprimé]",
           "size": 3816
         },
         {
-          "name": "Anime land [texte imprim\u00e9] : le magazine fran\u00e7ais de l'animation",
+          "name": "Anime land [texte imprimé] : le magazine français de l'animation",
           "size": 1931
         }
       ]
@@ -4031,7 +4031,7 @@
       "name": "Livre ado",
       "children": [
         {
-          "name": "La r\u00e9volte",
+          "name": "La révolte",
           "size": 809
         },
         {
@@ -4039,7 +4039,7 @@
           "size": 711
         },
         {
-          "name": "Hunger games [Texte imprim\u00e9]",
+          "name": "Hunger games [Texte imprimé]",
           "size": 799
         }
       ]
