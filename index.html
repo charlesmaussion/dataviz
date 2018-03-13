@@ -25,7 +25,6 @@
   fill-opacity: 1;
 }
 
-.label,
 .node--root,
 .node--leaf {
   pointer-events: none;
@@ -99,7 +98,7 @@ d3.json("jolie_data.json", function(error, root) {
     transition.selectAll("text")
       .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
         .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
-        .style("fill-opacity", function(d) { return d.children ? 1 : 0.2; })
+        .style("fill-opacity", function(d) { return d.children ? 1 : 0; })
         .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
 
