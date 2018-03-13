@@ -953,7 +953,6 @@
 ]
 },
 {"name": "Nouveauté", "children": [
-    {"name": "Que dalle", "children": [
         {"name": "Les neuf dragons : une enquête de Harry Bosch", "size": 773},
         {"name": "L'homme inquiet", "size": 772},
         {"name": "La tristesse du samouraï", "size": 751},
@@ -1023,8 +1022,6 @@
         {"name": "Portes ouvertes", "size": 645},
         {"name": "Sans un adieu", "size": 620}
     ]
-}
-]
 },
 {"name": "Multimédia", "children": [
     {"name": "CD", "children": [
