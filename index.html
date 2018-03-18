@@ -90,7 +90,7 @@ d3.json("jolie_data.json", function(error, root) {
       .style("fill", function(d) { return d.children ? color(d.depth) : null; })
       .style("fill-opacity", function(d) { return d.parent === root || d === root? 1 : 0; })
       .style("display", function(d) { return d.parent === root || d === root? "inline" : "none"; })
-      .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
+      .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); })
       .on("mouseover", function(d) {		
             text.transition()		
                 .duration(200)		
