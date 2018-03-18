@@ -80,7 +80,7 @@ d3.json("jolie_data.json", function(error, root) {
     .enter().append("text")
       .attr("class", "tooltip")
       .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
-      .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
+      .style("display", "inline")
       .text(function(d) { return d.data.name; });
 
   var circle = g.selectAll("circle")
