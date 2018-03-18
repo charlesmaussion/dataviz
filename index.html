@@ -92,7 +92,7 @@ d3.json("jolie_data.json", function(error, root) {
       .style("display", function(d) { return d.parent === root || d === root? "inline" : "none"; })
       .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); })
       .on("mouseover", function(d) {
-            console.log("Mouseover");
+            console.log(d.data.name);
             text.transition()		
                 .duration(200)		
                 .style("opacity", .9);			
