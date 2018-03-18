@@ -5,7 +5,7 @@
         {
             "name": "Bande dessinée",
             "children": [
-                {"name": "jeunesse",
+                {"name": "Jeunesse",
                     "children": [
                         {"name": "Au coeur du maelström", "size": 804},
                         {"name": "Une jolie vache", "size": 803},
@@ -385,7 +385,7 @@
                         {"name": "Va au panier", "size": 620}
                     ]
                 },
-                {"name": "adulte", "children": [
+                {"name": "Adulte", "children": [
                     {"name": "Astérix chez les Belges", "size": 801},
                     {"name": "Fairy Tail. 16", "size": 784},
                     {"name": "Le bouclier arverne", "size": 748},
@@ -455,7 +455,7 @@
                     {"name": "Tout schuss", "size": 616}
                 ]
             },
-            {"name": "ado", "children": [
+            {"name": "Ado", "children": [
                 {"name": "Fairy Tail. 6", "size": 763},
                 {"name": "Fairy Tail. 2", "size": 748},
                 {"name": "Fairy Tail. 8", "size": 740},
@@ -574,7 +574,7 @@
     ]
 },
 {"name": "Livre", "children": [
-    {"name": "jeunesse", "children": [
+    {"name": "Jeunesse", "children": [
         {"name": "Le théâtre de Barbapapa", "size": 801},
         {"name": "L'élixir de jouvence", "size": 788},
         {"name": "Le chantier", "size": 607},
@@ -702,7 +702,7 @@
         {"name": "C'est l'heure du bain, petit lion", "size": 660}
     ]
 },
-{"name": "adulte", "children": [
+{"name": "Adulte", "children": [
     {"name": "Un lieu incertain", "size": 791},
     {"name": "Une femme fuyant l'annonce", "size": 783},
     {"name": "La princesse des glaces", "size": 760},
@@ -742,7 +742,7 @@
     {"name": "Le scandale Modigliani", "size": 581}
 ]
 },
-{"name": "ado", "children": [
+{"name": "Ado", "children": [
     {"name": "La révolte", "size": 809},
     {"name": "L'embrasement", "size": 711},
     {"name": "Hunger games", "size": 799}
@@ -751,7 +751,7 @@
 ]
 },
 {"name": "Revue", "children": [
-    {"name": "adulte", "children": [
+    {"name": "Adulte", "children": [
         {"name": "Rustica hebdo", "size": 781},
         {"name": "SVM Mac", "size": 612},
         {"name": "Les Dossiers d'archéologie", "size": 677},
@@ -882,7 +882,7 @@
         {"name": "Management", "size": 641}
     ]
 },
-{"name": "jeunesse", "children": [
+{"name": "Jeunesse", "children": [
     {"name": "Images doc : un trésor d'images pour tout savoir", "size": 4538},
     {"name": "Wakou", "size": 4200},
     {"name": "J'apprends à lire", "size": 4095},
@@ -938,7 +938,7 @@
     {"name": "Les P'tites princesses : [le premier magazine des petites filles d'aujourd'hui qui aiment les histoires, les activités et...s'amuser!]", "size": 831},
     {"name": "J'AIME LIRE 2008", "size": 830},
     {"name": "ASTRAPI 2009", "size": 651}]},
-    {"name": "ado", "children": [
+    {"name": "Ado", "children": [
         {"name": "Okapi", "size": 14399},
         {"name": "Science & vie junior", "size": 7309},
         {"name": "Le Monde des ados", "size": 3760},
