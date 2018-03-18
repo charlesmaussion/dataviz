@@ -101,7 +101,7 @@ d3.json("jolie_data.json", function(error, root) {
   
 function tooltip(d){	/* function to create html content string in tooltip div. */
 		return "<h4>"+d.data.name+"</h4><table>"+
-			"<tr><td>Nombre de prets</td><td>"+(d.size)+"</td></tr>"+
+			"<tr><td>Nombre de prets</td><td>+To do+</td></tr>"+
 			"</table>";
 	}
   
@@ -125,8 +125,8 @@ function mouseOut(){
       .style("fill-opacity", function(d) { return d.parent === root || d === root? 1 : 0; })
       .style("display", function(d) { return d.parent === root || d === root? "inline" : "none"; })
       .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); })
-      .on("mouseover", function(d) {mouseOver(d)})
-      .on("mouseout", mouseOut);
+      .on("mouseover", function(d) { return d.parent ? d.children ? null : mouseOver(d) : null; })
+      .on("mouseout", function(d) { return d.parent ? d.children ? null : mouseOut() : null; });
 
   var text = g.selectAll("text")
     .data(nodes)
@@ -158,7 +158,7 @@ function mouseOut(){
       .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
         .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
         .style("fill-opacity", function(d) { return d.children ? 1 : 0; })
-        .on("start", function(d) { if (d.parent === focus) this.style.display = "none"; })
+        .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
 
     transition.selectAll("circle")
