@@ -74,6 +74,14 @@ d3.json("jolie_data.json", function(error, root) {
   var focus = root,
       nodes = pack(root).descendants(),
       view;
+ 
+  var text = g.selectAll("text")
+    .data(nodes)
+    .enter().append("text")
+      .attr("class", "tooltip")
+      .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
+      .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
+      .text(function(d) { return d.data.name; });
 
   var circle = g.selectAll("circle")
     .data(nodes)
@@ -83,14 +91,16 @@ d3.json("jolie_data.json", function(error, root) {
       .style("fill-opacity", function(d) { return d.parent === root || d === root? 1 : 0; })
       .style("display", function(d) { return d.parent === root || d === root? "inline" : "none"; })
       .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
-
-  var text = g.selectAll("text")
-    .data(nodes)
-    .enter().append("text")
-      .attr("class", "tooltip")
-      .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
-      .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
-      .text(function(d) { return d.data.name; });
+      .on("mouseover", function(d) {		
+            text.transition()		
+                .duration(200)		
+                .style("opacity", .9);			
+            })					
+      .on("mouseout", function(d) {		
+            text.transition()		
+                .duration(500)		
+                .style("opacity", 0);	
+        });
 
   var node = g.selectAll("circle,text");
   
